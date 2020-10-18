@@ -1,0 +1,45 @@
+﻿block,cond_file,ready_msg,fdbk_msg,pair,allowed,correct,state,position,num_reminder,lett_reminder,Blocks.thisRepN,Blocks.thisTrialN,Blocks.thisN,Blocks.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trial_key_resp.keys,trial_key_resp.corr,trial_key_resp.rt,participant,session,date,expName,psychopyVersion,frameRate,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",2G,fj,j,TopLeft,"[-0.3, 0.3]",F = Odd        J = Even,None,0,0,0,0,0,0,0,0,j,1,5.95963780000011,,001,2019_Oct_09_1318,Number_Letter_Task,3.1.5,60.00560452335146,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",5I,fj,f,TopRight,"[0.3, 0.3]",F = Odd        J = Even,None,0,0,0,0,0,1,1,1,f,1,1.0148543000000245,,001,2019_Oct_09_1318,Number_Letter_Task,3.1.5,60.00560452335146,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",2K,fj,j,TopLeft,"[-0.3, 0.3]",F = Odd        J = Even,None,0,0,0,0,0,2,2,2,j,1,1.0057056000000557,,001,2019_Oct_09_1318,Number_Letter_Task,3.1.5,60.00560452335146,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",7A,fj,f,TopRight,"[0.3, 0.3]",F = Odd        J = Even,None,0,0,0,0,0,3,3,3,f,1,2.2994638000000123,,001,2019_Oct_09_1318,Number_Letter_Task,3.1.5,60.00560452335146,

@@ -1,0 +1,289 @@
+﻿block,cond_file,ready_msg,fdbk_msg,pair,allowed,correct,state,position,num_reminder,lett_reminder,Blocks.thisRepN,Blocks.thisTrialN,Blocks.thisN,Blocks.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trial_key_resp.keys,trial_key_resp.corr,trial_key_resp.rt,participant,session,date,expName,psychopyVersion,frameRate,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",2G,fj,j,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,0,0,0,j,1,6.4919104999999035,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",5I,fj,f,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,1,1,1,f,1,1.2629093999998986,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",2K,fj,j,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,2,2,2,j,1,0.7709935999998834,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",7A,fj,f,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,3,3,3,f,1,2.0023908000000574,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",1E,fj,f,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,4,4,4,f,1,0.8320949000001292,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",6R,fj,j,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,5,5,5,j,1,1.0375840000001517,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",9I,fj,f,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,6,6,6,f,1,2.1301077000000532,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",6M,fj,j,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,7,7,7,f,0,0.18746810000016012,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",1R,fj,f,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,8,8,8,j,0,0.0587050999999974,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",2R,fj,j,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,9,9,9,f,0,0.09605649999980415,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",9E,fj,f,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,10,10,10,j,0,0.07495779999999286,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",7K,fj,f,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,11,11,11,f,1,0.054865000000063446,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",8M,fj,j,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,12,12,12,j,1,0.042918800000052215,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",8K,fj,j,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,13,13,13,f,0,0.08045590000006086,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",5G,fj,f,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,14,14,14,j,0,0.0770085999999992,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",9U,fj,f,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,15,15,15,f,1,0.05559999999991305,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",1G,fj,f,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,16,16,16,j,0,0.07648359999984677,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",6I,fj,j,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,17,17,17,f,0,0.06465479999997115,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",5U,fj,f,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,18,18,18,j,0,0.07726200000001882,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",1M,fj,f,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,19,19,19,f,1,0.06498929999997927,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",3M,fj,f,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,20,20,20,j,0,0.06900640000003477,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",3K,fj,f,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,21,21,21,f,1,0.04878950000011173,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",6E,fj,j,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,22,22,22,j,1,0.09457150000002912,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",7I,fj,f,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,23,23,23,f,1,0.04971330000012131,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",8E,fj,j,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,24,24,24,j,1,0.10309819999997671,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",6A,fj,j,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,25,25,25,f,0,0.049641999999948894,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",2U,fj,j,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,26,26,26,j,1,0.09513250000009066,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",8R,fj,j,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,27,27,27,f,0,0.08214329999987058,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",4A,fj,j,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,28,28,28,j,1,0.0694492000000082,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",5R,fj,f,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,29,29,29,f,1,0.05782890000000407,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",5K,fj,f,TopLeft,"[-0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,30,30,30,j,0,0.08654569999998785,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+There will be a cue at the top of the screen.","Good work! 
+
+In this second part, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. ",3U,fj,f,TopRight,"[0.3, 0.25]",F = Odd        J = Even, ,0,0,0,0,0,31,31,31,f,1,0.04948570000010477,,001,2019_Nov_19_1456,Number_Letter_Task,3.1.5,59.995236378244954,

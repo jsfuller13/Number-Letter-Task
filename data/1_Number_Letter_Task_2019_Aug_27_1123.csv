@@ -1,0 +1,2817 @@
+﻿block,cond_file,ready_msg,fdbk_msg,pair,allowed,correct,state,position,Blocks.thisRepN,Blocks.thisTrialN,Blocks.thisN,Blocks.thisIndex,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,rdy_key_resp.keys,rdy_key_resp.rt,trial_key_resp.keys,trial_key_resp.corr,trial_key_resp.rt,trial_key_resp.started,trial_key_resp.stopped,participant,session,date,expName,psychopyVersion,frameRate,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",2G,fj,j,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,0,0,0,space,4.914829586996348,f,0,0.9956762860092567,21.162449825002113,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",5I,fj,f,TopRight,"[0.3, 0.3]",0,0,0,0,0,1,1,1,,,j,0,1.5077670089958701,22.228388067000196,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",2K,fj,j,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,2,2,2,,,f,0,0.45116378999955487,23.807889331001206,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",7A,fj,f,TopRight,"[0.3, 0.3]",0,0,0,0,0,3,3,3,,,j,0,0.13237400499929208,24.344769932999043,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",1E,fj,f,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,4,4,4,,,f,1,0.3211319050024031,24.557947602996137,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",6R,fj,j,TopRight,"[0.3, 0.3]",0,0,0,0,0,5,5,5,,,j,1,0.07354836499143858,24.958521528998972,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",9I,fj,f,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,6,6,6,,,f,1,0.13187264699081425,25.10815557000751,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",6M,fj,j,TopRight,"[0.3, 0.3]",0,0,0,0,0,7,7,7,,,j,1,0.09124875800625887,25.30880177200015,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",1R,fj,f,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,8,8,8,,,f,1,0.1537769029964693,25.46235915500438,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",2R,fj,j,TopRight,"[0.3, 0.3]",0,0,0,0,0,9,9,9,,,j,1,0.17741811799351126,25.678549628006294,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",9E,fj,f,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,10,10,10,,,f,1,0.15638873299758416,25.910570316002122,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",7K,fj,f,TopRight,"[0.3, 0.3]",0,0,0,0,0,11,11,11,,,j,0,0.1783322960109217,26.127752847009106,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",8M,fj,j,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,12,12,12,,,f,0,0.18021249100274872,26.362770656996872,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",8K,fj,j,TopRight,"[0.3, 0.3]",0,0,0,0,0,13,13,13,,,j,1,0.1755636330053676,26.625465767996502,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",5G,fj,f,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,14,14,14,,,f,1,0.2325002309953561,26.860458620009013,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",9U,fj,f,TopRight,"[0.3, 0.3]",0,0,0,0,0,15,15,15,,,j,0,0.1660799419914838,27.177871498002787,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",1G,fj,f,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,16,16,16,,,f,1,0.23188212999957614,27.412089047997142,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",6I,fj,j,TopRight,"[0.3, 0.3]",0,0,0,0,0,17,17,17,,,j,1,0.1819418530067196,27.727998649002984,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",5U,fj,f,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,18,18,18,,,f,1,0.1529865259944927,27.991905021001003,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",1M,fj,f,TopRight,"[0.3, 0.3]",0,0,0,0,0,19,19,19,,,j,0,0.192848934995709,28.224019992005196,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",3M,fj,f,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,20,20,20,,,f,1,0.14956409600563347,28.49538475299778,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",3K,fj,f,TopRight,"[0.3, 0.3]",0,0,0,0,0,21,21,21,,,j,0,0.08774350400199182,28.725164318006136,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",6E,fj,j,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,22,22,22,,,f,0,0.09553308600152377,28.89136119199975,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",7I,fj,f,TopRight,"[0.3, 0.3]",0,0,0,0,0,23,23,23,,,j,0,0.03735264600254595,29.057668813009514,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",8E,fj,j,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,24,24,24,,,f,0,0.03701374199590646,29.161930207003024,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",6A,fj,j,TopRight,"[0.3, 0.3]",0,0,0,0,0,25,25,25,,,j,1,0.07340805500280112,29.261610230008955,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",2U,fj,j,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,26,26,26,,,f,0,0.006425430008675903,29.412574004003545,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",8R,fj,j,TopRight,"[0.3, 0.3]",0,0,0,0,0,27,27,27,,,f,0,0.1669709529960528,29.492273212003056,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",4A,fj,j,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,28,28,28,,,j,1,0.25223758300126065,29.725710462007555,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",5R,fj,f,TopRight,"[0.3, 0.3]",0,0,0,0,0,29,29,29,,,f,1,0.11718581500463188,30.058890722997603,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",5K,fj,f,TopLeft,"[-0.3, 0.3]",0,0,0,0,0,30,30,30,,,j,0,0.045772201992804185,30.242319746001158,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+1,NLT_Block_1.xlsx,"Respond by pressing:
+        F if the number is odd
+        J if the number is even
+
+Remember...
+        Odd numbers are 1, 3, 5, 7, and 9
+        Even numbers are 2, 4, 6, and 8
+
+Press SPACE to begin.","Good work! 
+
+In this second block, number-letter pairs will only appear on the bottom half of the screen. 
+
+Decide if the letter is a consonant or a vowel. 
+
+Press SPACE to continue.",3U,fj,f,TopRight,"[0.3, 0.3]",0,0,0,0,0,31,31,31,,,f,1,0.06576560299436096,30.35832795999886,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",3R,dk,d,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,0,0,0,space,10.597990342008416,d,1,0.9662741820066003,46.14506310800789,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",8I,dk,k,BottomRight,"[0.3, -0.3]",0,1,1,1,0,1,1,1,,,k,1,0.17801022599451244,47.195393419999164,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",2A,dk,k,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,2,2,2,,,d,0,0.15196291300526354,47.44543236900063,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",8A,dk,k,BottomRight,"[0.3, -0.3]",0,1,1,1,0,3,3,3,,,k,1,0.0833608070097398,47.67780271200172,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",9G,dk,d,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,4,4,4,,,d,1,0.12892543700581882,47.84546291800507,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",4K,dk,d,BottomRight,"[0.3, -0.3]",0,1,1,1,0,5,5,5,,,k,0,0.06093432899797335,48.0454613519978,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",1U,dk,k,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,6,6,6,,,d,0,0.20467508399451617,48.178698349001934,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",8G,dk,d,BottomRight,"[0.3, -0.3]",0,1,1,1,0,7,7,7,,,k,0,0.10329688001365867,48.462091335008154,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",7R,dk,d,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,8,8,8,,,d,1,0.12073879400850274,48.64462065200496,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",1K,dk,d,BottomRight,"[0.3, -0.3]",0,1,1,1,0,9,9,9,,,k,0,0.1209926109877415,48.845347465001396,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",5E,dk,k,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,10,10,10,,,d,0,0.15406215100665577,49.04534081900783,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",7E,dk,k,BottomRight,"[0.3, -0.3]",0,1,1,1,0,11,11,11,,,k,1,0.09970445300859865,49.279408151996904,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",2M,dk,d,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,12,12,12,,,d,1,0.1161170090053929,49.46100884900079,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",9A,dk,k,BottomRight,"[0.3, -0.3]",0,1,1,1,0,13,13,13,,,k,1,0.09989620000123978,49.66238202199747,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",4G,dk,d,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,14,14,14,,,d,1,0.13611918799870182,49.84517011100252,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",4U,dk,k,BottomRight,"[0.3, -0.3]",0,1,1,1,0,15,15,15,,,k,1,0.12198591799824499,50.061221891999594,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",9M,dk,d,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,16,16,16,,,d,1,0.11583705600060057,50.26228627600358,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",6U,dk,k,BottomRight,"[0.3, -0.3]",0,1,1,1,0,17,17,17,,,k,1,0.11016169299546164,50.46210390899796,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",9R,dk,d,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,18,18,18,,,d,1,0.14077745999384206,50.64546960500593,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",7U,dk,k,BottomRight,"[0.3, -0.3]",0,1,1,1,0,19,19,19,,,k,1,0.12840581299678888,50.86186709400499,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",1I,dk,k,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,20,20,20,,,d,0,0.1572381080040941,51.06203980500868,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",9K,dk,d,BottomRight,"[0.3, -0.3]",0,1,1,1,0,21,21,21,,,k,0,0.22271634999196976,51.29538998899807,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",4M,dk,d,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,22,22,22,,,d,1,0.18064152100123465,51.595379717007745,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",6K,dk,d,BottomRight,"[0.3, -0.3]",0,1,1,1,0,23,23,23,,,k,0,0.08503117000509519,51.86213906100602,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",3A,dk,k,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,24,24,24,,,d,0,0.04516763400170021,52.02906162600266,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",6G,dk,d,BottomRight,"[0.3, -0.3]",0,1,1,1,0,25,25,25,,,k,0,0.036485453994828276,52.14578061600332,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",7G,dk,d,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,26,26,26,,,d,1,0.060946152996621095,52.261310290996335,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",2I,dk,k,BottomRight,"[0.3, -0.3]",0,1,1,1,0,27,27,27,,,k,1,0.06255871900066268,52.39569462300278,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",5I,dk,k,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,28,28,28,,,d,0,0.06014160899212584,52.52902763300517,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",4R,dk,d,BottomRight,"[0.3, -0.3]",0,1,1,1,0,29,29,29,,,k,0,0.05094564000319224,52.66223791599623,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",8U,dk,k,BottomLeft,"[-0.3, -0.3]",0,1,1,1,0,30,30,30,,,d,0,0.04952160199172795,52.795450724006514,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+2,NLT_Block_2.xlsx,"Respond by pressing…  
+        D if the letter is a consonant. 
+        K if the letter is a vowel.
+
+Remember... 
+        Consonants are G, K, M, and R.
+        Vowels are A, E, I, and U. 
+
+Press SPACE to begin.","Good work! 
+
+In this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. 
+
+Press SPACE to continue.",5A,dk,k,BottomRight,"[0.3, -0.3]",0,1,1,1,0,31,31,31,,,k,1,0.04415087300003506,52.929077088003396,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2G,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,0,0,0,space,11.020850718996371,d,0,0.48192282899981365,67.19463892900967,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5I,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,1,1,1,,,k,0,0.16782010298629757,67.76087282100343,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2K,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,2,2,2,,,d,1,0.1692237009992823,68.01150505800615,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7A,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,3,3,3,,,k,1,0.19605756500095595,68.26172609500645,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1E,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,4,4,4,,,d,0,0.17073866799182724,68.52884120400995,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6R,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,5,5,5,,,k,0,0.1750166400015587,68.77768599899719,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9I,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,6,6,6,,,d,0,0.15043726499425247,69.03035143400484,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6M,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,7,7,7,,,k,0,0.13471989300160203,69.26201790600317,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1R,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,8,8,8,,,d,0,0.17442472898983397,69.47823136400257,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9E,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,9,9,9,,,f,1,0.2431912040046882,69.7284765259974,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7K,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,10,10,10,,,j,0,0.1717695300030755,70.04502731400135,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8M,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,11,11,11,,,f,0,0.12129492699750699,70.29537587500818,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8K,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,12,12,12,,,d,0,0.1558674779953435,70.4947115440009,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5G,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,13,13,13,,,k,0,0.15615169100055937,70.72836179300793,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9U,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,14,14,14,,,f,0,0.19213369701174088,70.9616110890056,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1G,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,15,15,15,,,j,0,0.17356076400028542,71.22788995900191,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6I,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,16,16,16,,,d,0,0.19237939899903722,71.47815467500186,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5U,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,17,17,17,,,k,0,0.11631135300558526,71.74608208800782,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1M,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,18,18,18,,,d,1,0.14522015600232407,71.94540972499817,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3M,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,19,19,19,,,j,0,0.14471328900253866,72.1619279919978,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3K,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,20,20,20,,,d,0,0.1955393799871672,72.37808696400316,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6E,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,21,21,21,,,f,0,0.17929939700115938,72.64609542100516,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7I,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,22,22,22,,,k,1,0.06512118199316319,72.89629680100188,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8E,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,23,23,23,,,d,0,0.06847318200743757,73.04510044600465,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6A,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,24,24,24,,,d,0,0.24163364501146134,73.19495974000893,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2U,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,25,25,25,,,k,0,0.020405531002325006,73.5119890490023,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8R,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,26,26,26,,,d,1,0.04461638200154994,73.61200453499623,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4A,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,27,27,27,,,k,1,0.044991818998823874,73.72757154000283,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5R,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,28,28,28,,,d,0,0.02748864000022877,73.84514201300044,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5K,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,29,29,29,,,k,0,0.0595729840133572,73.94495828000072,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3I,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,30,30,30,,,d,0,0.008455264003714547,74.07807953099837,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5M,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,31,31,31,,,k,0,0.08248404299956746,74.16185245799716,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3E,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,32,32,32,,,d,0,0.02252506700460799,None,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4I,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,33,33,33,,,k,0,0.04838854700210504,74.37515444500605,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2E,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,34,34,34,,,d,0,0.020651598009862937,74.49490208200586,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3G,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,35,35,35,,,k,0,0.028252239993889816,74.59526224700676,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4E,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,36,36,36,,,d,0,0.060788478003814816,74.6947509199963,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3U,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,37,37,37,,,k,0,0.03541694299201481,74.82806118999724,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3R,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,38,38,38,,,d,1,0.04269607100286521,74.94492207100848,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8I,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,39,39,39,,,k,1,0.04562110798724461,75.06190714699915,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2A,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,40,40,40,,,d,0,0.033018738991813734,75.17829767000512,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8A,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,41,41,41,,,k,0,0.0035072610044153407,75.31197117299598,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9G,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,42,42,42,,,d,1,-0.005283122009132057,75.39682631200412,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4K,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,43,43,43,,,k,0,0.04629372799536213,75.46517291200871,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1U,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,44,44,44,,,d,0,0.04888606601161882,75.5946620550094,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8G,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,45,45,45,,,k,0,0.0766814820090076,75.7425900369999,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7R,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,46,46,46,,,d,1,0.02379209299397189,None,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1K,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,47,47,47,,,k,0,0.04140732000814751,75.97588898600952,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5E,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,48,48,48,,,d,0,-0.03698903300391976,76.14231939399906,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7E,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,49,49,49,,,k,0,-0.021052633004728705,76.24253563700768,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2M,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,50,50,50,,,d,1,0.04422172599879559,76.30925128700619,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9A,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,51,51,51,,,k,1,0.03860742899996694,76.45887662700261,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4G,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,52,52,52,,,d,0,0.025091703006182797,76.60917372700351,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4U,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,53,53,53,,,k,0,0.03669583599548787,76.72570957700373,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9M,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,54,54,54,,,d,1,0.6019507710007019,76.85928432299988,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6U,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,55,55,55,,,f,0,0.05738757298968267,77.54392563999863,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9R,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,56,56,56,,,d,0,0.035873068001819775,77.67742900199664,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7U,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,57,57,57,,,f,1,0.03823655100131873,77.79516692100151,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1I,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,58,58,58,,,d,0,0.01764451000781264,77.91157637600554,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9K,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,59,59,59,,,f,0,0.01407137099886313,78.01120121999702,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4M,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,60,60,60,,,d,0,0.05459424399305135,78.09476911800448,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6K,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,61,61,61,,,f,0,0.10554026000318117,78.22787680701003,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3A,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,62,62,62,,,d,0,0.01699510899197776,None,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6G,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,63,63,63,,,f,0,0.01925598201341927,78.45794704300351,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7G,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,64,64,64,,,d,0,0.012924815993756056,78.56045221899694,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2I,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,65,65,65,,,f,0,0.04154445500171278,78.64379105600528,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4R,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,66,66,66,,,d,1,0.016153343007317744,78.7613555029966,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8U,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,67,67,67,,,f,0,0.03252105899446178,78.84469556700788,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1A,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,68,68,68,,,d,0,0.008522800999344327,78.96086411800934,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7M,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,69,69,69,,,f,1,0.020511049006017856,79.04484012900502,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5A,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,70,70,70,,,d,0,-0.01133130599919241,79.14470471401,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3G,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,71,71,71,,,f,0,0.04241051900316961,79.21284701100376,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1M,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,72,72,72,,,d,0,0.004263176000677049,79.32714170499821,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7M,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,73,73,73,,,f,1,0.04589433199726045,79.41149852699891,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8M,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,74,74,74,,,d,1,0.03235375200165436,79.52708050100773,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7I,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,75,75,75,,,f,0,0.034155437009758316,79.62704888499866,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9E,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,76,76,76,,,d,0,0.00859059400681872,79.7448337609967,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6I,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,77,77,77,,,f,0,0.049322303995722905,79.82814260300074,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3E,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,78,78,78,,,d,0,-0.0026938480004901066,79.96017926800414,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9U,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,79,79,79,,,f,0,0.03279258799739182,80.02459073800128,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4R,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,80,80,80,,,d,0,0.03775607999705244,80.12766813400958,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1I,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,81,81,81,,,f,1,0.02993342900299467,80.24525711699971,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1U,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,82,82,82,,,d,0,0.030441423994489014,80.3447578720079,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7K,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,83,83,83,,,f,0,0.06506179700954817,80.4442867260077,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7E,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,84,84,84,,,d,0,0.03716432600049302,80.5771480090043,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4E,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,85,85,85,,,f,0,0.05212244299764279,80.69418074500572,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5R,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,86,86,86,,,d,1,0.002197351001086645,80.82792592101032,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3U,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,87,87,87,,,f,0,0.03842999700282235,80.91087229600816,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2M,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,88,88,88,,,d,0,0.024012316003791057,81.02713032100291,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1K,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,89,89,89,,,f,1,0.037009662002674304,81.12826804100769,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2I,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,90,90,90,,,d,0,0.02170371600368526,81.24449402400933,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9A,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,91,91,91,,,f,0,0.03843027900438756,81.34379363000335,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3R,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,92,92,92,,,d,0,0.033347510994644836,81.46081689200946,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4G,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,93,93,93,,,f,0,0.044357239006785676,81.5780110170017,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1E,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,94,94,94,,,d,0,0.03173258199240081,81.69457520000287,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8G,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,95,95,95,,,f,0,0.05777745599334594,81.79448735099868,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3I,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,96,96,96,,,f,1,0.14236578698910307,81.92889632799779,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5A,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,97,97,97,,,d,0,0.013750245998380706,82.14555175999703,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2E,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,98,98,98,,,f,0,0.01746836099482607,82.24464944200008,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6G,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,99,99,99,,,d,1,-0.003158506006002426,82.3613837120065,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9M,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,100,100,100,,,f,1,0.06251501799852122,82.42880792600045,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4I,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,101,101,101,,,d,0,0.021330952004063874,82.57794670700969,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8I,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,102,102,102,,,f,0,0.042151389992795885,82.67705458799901,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9I,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,103,103,103,,,d,0,0.012501703997259028,82.79474362100882,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8A,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,104,104,104,,,f,0,0.07016409099742305,82.8771193749999,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2R,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,105,105,105,,,d,0,0.002810555000905879,83.02830627000367,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4K,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,106,106,106,,,f,0,0.05390644699218683,83.11317761900136,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5I,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,107,107,107,,,d,0,0.01876375000574626,83.24426726900856,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6R,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,108,108,108,,,f,0,0.035572356995544396,83.34460696700262,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1R,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,109,109,109,,,d,0,0.018968118994962424,83.46129451900197,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8E,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,110,110,110,,,f,0,0.036948551001842134,83.5613253210031,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9G,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,111,111,111,,,d,1,-1.3486001989804208e-05,83.67824400900281,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",1G,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,112,112,112,,,f,1,0.06642575000296347,83.74080874100036,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8R,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,113,113,113,,,d,0,0.03831532099866308,83.87699830700876,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7G,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,114,114,114,,,f,0,0.09926716799964197,83.9937756020081,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",3A,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,115,115,115,,,d,0,0.01107696299732197,84.17801626501023,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5M,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,116,116,116,,,f,1,0.04739518401038367,84.26165124800173,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9K,fjdk,f,TopRight,"[0.3, 0.3]",0,2,2,2,0,117,117,117,,,d,0,0.03437401900009718,84.3946351170016,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2U,fjdk,k,BottomRight,"[0.3, -0.3]",0,2,2,2,0,118,118,118,,,f,0,0.05396203800046351,84.51135169999907,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",5G,fjdk,d,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,119,119,119,,,d,1,-0.0031813020032132044,84.6444098080101,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",9R,fjdk,f,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,120,120,120,,,f,1,0.05868887399265077,84.70738666600664,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4U,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,121,121,121,,,d,0,0.010539531009271741,84.84364634699887,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",4M,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,122,122,122,,,f,0,0.05010421300539747,84.92803682301019,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",8U,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,123,123,123,,,d,0,0.049070102992118336,85.06110320299922,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6K,fjdk,j,TopLeft,"[-0.3, 0.3]",0,2,2,2,0,124,124,124,,,f,0,0.047861352999461815,85.19533519000106,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",2A,fjdk,j,TopRight,"[0.3, 0.3]",0,2,2,2,0,125,125,125,,,d,0,0.03185019099328201,85.31134661599935,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",6M,fjdk,d,BottomRight,"[0.3, -0.3]",0,2,2,2,0,126,126,126,,,f,0,0.06471513299038634,85.4103072029975,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,
+3,NLT_Block_3.xlsx,"If the pair appears in the top half…
+        Decide if the number is odd or even.
+
+If the pair appears in the bottom half…
+        Decide if the letter is a consonant or a vowel. 
+
+Respond by pressing 
+        F if the number is odd            D if the letter is a consonant 
+        J if the number is even           K if the letter is a vowel
+
+Press SPACE to begin.","Good work! 
+
+You’ve finished this task.
+
+Press SPACE to continue.",7U,fjdk,k,BottomLeft,"[-0.3, -0.3]",0,2,2,2,0,127,127,127,,,d,0,0.022794627002440393,85.54418457200518,None,1,001,2019_Aug_27_1123,Number_Letter_Task,3.1.5,60.05941184835261,

@@ -1,0 +1,835 @@
+5.4801 	WARNING 	Monitor specification not found. Creating a temporary one...
+5.4821 	WARNING 	User requested fullscreen with size [1680 1050], but screen is actually [2880, 1800]. Using actual size
+6.6535 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001E8D9236240>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001E8D91F9F28>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([2880, 1800]), stereo=False, units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+6.6535 	EXP 	window1: recordFrameIntervals = False
+6.8197 	EXP 	window1: recordFrameIntervals = True
+7.0032 	EXP 	window1: recordFrameIntervals = False
+7.4273 	EXP 	Created gen_instr_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='gen_instr_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.4417 	EXP 	Created instr_cont = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instr_cont', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='Press SPACE to continue.', units='height', win=Window(...), wrapWidth=1)
+7.4945 	EXP 	Created gen_instr_2_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='gen_instr_2_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text=str(...), units='height', win=Window(...), wrapWidth=1)
+7.5070 	EXP 	Created instr_2_cont = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='instr_2_cont', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='Press SPACE to continue.', units='height', win=Window(...), wrapWidth=1)
+7.5165 	EXP 	Created rdy_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='rdy_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+7.5279 	EXP 	Created rdy_cont = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='rdy_cont', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='Press SPACE to begin.', units='height', win=Window(...), wrapWidth=1)
+7.5662 	EXP 	Created NL_Pair = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='NL_Pair', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+7.5723 	EXP 	Created number_reminder = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='number_reminder', opacity=1.0, ori=0, pos=array([0.  , 0.45]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+7.5783 	EXP 	Created letter_reminder = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='letter_reminder', opacity=1.0, ori=0, pos=array([ 0.  , -0.45]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+7.5843 	EXP 	Created fdbk_txt = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fdbk_txt', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+7.5940 	EXP 	Created fdbk_cont = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.05, italic=False, languageStyle='LTR', name='fdbk_cont', opacity=1.0, ori=0, pos=array([ 0. , -0.4]), rgb=array([255., 255., 255.]), text='Press SPACE to continue.', units='height', win=Window(...), wrapWidth=1)
+7.6390 	EXP 	gen_instr_txt: autoDraw = True
+7.6390 	EXP 	instr_cont: autoDraw = True
+9.2465 	DATA 	Keypress: space
+9.2532 	EXP 	gen_instr_txt: autoDraw = False
+9.2532 	EXP 	instr_cont: autoDraw = False
+9.2532 	EXP 	gen_instr_2_txt: autoDraw = True
+9.2532 	EXP 	instr_2_cont: autoDraw = True
+9.5749 	DATA 	Keypress: space
+9.6242 	EXP 	Imported NLT_Blocks.xlsx as conditions, 3 conditions, 4 params
+9.6244 	EXP 	Created sequence: sequential, trialTypes=3, nReps=1, seed=None
+9.6247 	EXP 	New trial (rep=0, index=0): OrderedDict([('block', 1), ('cond_file', 'NLT_Block_1.xlsx'), ('ready_msg', 'Respond by pressing:\n        F if the number is odd\n        J if the number is even\n\nRemember...\n        Odd numbers are 1, 3, 5, 7, and 9\n        Even numbers are 2, 4, 6, and 8'), ('fdbk_msg', 'Good work! \n\nIn this second block, number-letter pairs will only appear on the bottom half of the screen. \n\nDecide if the letter is a consonant or a vowel. ')])
+9.7029 	EXP 	gen_instr_2_txt: autoDraw = False
+9.7029 	EXP 	instr_2_cont: autoDraw = False
+9.7029 	EXP 	rdy_txt: text = 'Respond by pressing:\n        F if the number is odd\n        J if the number is even\n\nRemember...\n        Odd numbers are 1, 3, 5, 7, and 9\n        Even numbers are 2, 4, 6, and 8'
+9.7029 	EXP 	rdy_txt: autoDraw = True
+9.7029 	EXP 	rdy_cont: autoDraw = True
+9.9998 	EXP 	Imported NLT_Block_1.xlsx as conditions, 32 conditions, 7 params
+10.0000 	EXP 	Created sequence: sequential, trialTypes=32, nReps=1, seed=None
+10.0003 	EXP 	New trial (rep=0, index=0): OrderedDict([('pair', '2G'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+10.0267 	DATA 	Keypress: space
+10.0365 	EXP 	rdy_txt: autoDraw = False
+10.0365 	EXP 	rdy_cont: autoDraw = False
+10.0365 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+10.0365 	EXP 	NL_Pair: text = '2G'
+10.0365 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+10.0365 	EXP 	letter_reminder: text = ' '
+10.0365 	EXP 	NL_Pair: autoDraw = True
+10.0365 	EXP 	number_reminder: autoDraw = True
+10.0365 	EXP 	letter_reminder: autoDraw = True
+10.9748 	EXP 	New trial (rep=0, index=1): OrderedDict([('pair', '5I'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+10.9879 	DATA 	Keypress: j
+11.0034 	EXP 	NL_Pair: autoDraw = False
+11.0034 	EXP 	number_reminder: autoDraw = False
+11.0034 	EXP 	letter_reminder: autoDraw = False
+11.0034 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+11.0034 	EXP 	NL_Pair: text = '5I'
+11.0034 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+11.0034 	EXP 	letter_reminder: text = ' '
+11.0034 	EXP 	NL_Pair: autoDraw = True
+11.0034 	EXP 	number_reminder: autoDraw = True
+11.0034 	EXP 	letter_reminder: autoDraw = True
+11.1241 	EXP 	New trial (rep=0, index=2): OrderedDict([('pair', '2K'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+11.1361 	DATA 	Keypress: j
+11.1533 	EXP 	NL_Pair: autoDraw = False
+11.1533 	EXP 	number_reminder: autoDraw = False
+11.1533 	EXP 	letter_reminder: autoDraw = False
+11.1533 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+11.1533 	EXP 	NL_Pair: text = '2K'
+11.1533 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+11.1533 	EXP 	letter_reminder: text = ' '
+11.1533 	EXP 	NL_Pair: autoDraw = True
+11.1533 	EXP 	number_reminder: autoDraw = True
+11.1533 	EXP 	letter_reminder: autoDraw = True
+11.2909 	EXP 	New trial (rep=0, index=3): OrderedDict([('pair', '7A'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+11.3061 	DATA 	Keypress: j
+11.3200 	EXP 	NL_Pair: autoDraw = False
+11.3200 	EXP 	number_reminder: autoDraw = False
+11.3200 	EXP 	letter_reminder: autoDraw = False
+11.3200 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+11.3200 	EXP 	NL_Pair: text = '7A'
+11.3200 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+11.3200 	EXP 	letter_reminder: text = ' '
+11.3200 	EXP 	NL_Pair: autoDraw = True
+11.3200 	EXP 	number_reminder: autoDraw = True
+11.3200 	EXP 	letter_reminder: autoDraw = True
+11.4235 	EXP 	New trial (rep=0, index=4): OrderedDict([('pair', '1E'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+11.4385 	DATA 	Keypress: j
+11.4530 	EXP 	NL_Pair: autoDraw = False
+11.4530 	EXP 	number_reminder: autoDraw = False
+11.4530 	EXP 	letter_reminder: autoDraw = False
+11.4530 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+11.4530 	EXP 	NL_Pair: text = '1E'
+11.4530 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+11.4530 	EXP 	letter_reminder: text = ' '
+11.4530 	EXP 	NL_Pair: autoDraw = True
+11.4530 	EXP 	number_reminder: autoDraw = True
+11.4530 	EXP 	letter_reminder: autoDraw = True
+11.5742 	DATA 	Keypress: j
+11.5907 	EXP 	New trial (rep=0, index=5): OrderedDict([('pair', '6R'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+11.6198 	EXP 	NL_Pair: autoDraw = False
+11.6198 	EXP 	number_reminder: autoDraw = False
+11.6198 	EXP 	letter_reminder: autoDraw = False
+11.6198 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+11.6198 	EXP 	NL_Pair: text = '6R'
+11.6198 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+11.6198 	EXP 	letter_reminder: text = ' '
+11.6198 	EXP 	NL_Pair: autoDraw = True
+11.6198 	EXP 	number_reminder: autoDraw = True
+11.6198 	EXP 	letter_reminder: autoDraw = True
+11.7412 	DATA 	Keypress: j
+11.7572 	EXP 	New trial (rep=0, index=6): OrderedDict([('pair', '9I'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+11.7864 	EXP 	NL_Pair: autoDraw = False
+11.7864 	EXP 	number_reminder: autoDraw = False
+11.7864 	EXP 	letter_reminder: autoDraw = False
+11.7864 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+11.7864 	EXP 	NL_Pair: text = '9I'
+11.7864 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+11.7864 	EXP 	letter_reminder: text = ' '
+11.7864 	EXP 	NL_Pair: autoDraw = True
+11.7864 	EXP 	number_reminder: autoDraw = True
+11.7864 	EXP 	letter_reminder: autoDraw = True
+11.9244 	EXP 	New trial (rep=0, index=7): OrderedDict([('pair', '6M'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+11.9354 	DATA 	Keypress: j
+11.9533 	EXP 	NL_Pair: autoDraw = False
+11.9533 	EXP 	number_reminder: autoDraw = False
+11.9533 	EXP 	letter_reminder: autoDraw = False
+11.9533 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+11.9533 	EXP 	NL_Pair: text = '6M'
+11.9533 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+11.9533 	EXP 	letter_reminder: text = ' '
+11.9533 	EXP 	NL_Pair: autoDraw = True
+11.9533 	EXP 	number_reminder: autoDraw = True
+11.9533 	EXP 	letter_reminder: autoDraw = True
+12.0909 	EXP 	New trial (rep=0, index=8): OrderedDict([('pair', '1R'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+12.0986 	DATA 	Keypress: j
+12.1032 	EXP 	NL_Pair: autoDraw = False
+12.1032 	EXP 	number_reminder: autoDraw = False
+12.1032 	EXP 	letter_reminder: autoDraw = False
+12.1032 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+12.1032 	EXP 	NL_Pair: text = '1R'
+12.1032 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+12.1032 	EXP 	letter_reminder: text = ' '
+12.1032 	EXP 	NL_Pair: autoDraw = True
+12.1032 	EXP 	number_reminder: autoDraw = True
+12.1032 	EXP 	letter_reminder: autoDraw = True
+12.2401 	EXP 	New trial (rep=0, index=9): OrderedDict([('pair', '2R'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+12.2479 	DATA 	Keypress: j
+12.2531 	EXP 	NL_Pair: autoDraw = False
+12.2531 	EXP 	number_reminder: autoDraw = False
+12.2531 	EXP 	letter_reminder: autoDraw = False
+12.2531 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+12.2531 	EXP 	NL_Pair: text = '2R'
+12.2531 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+12.2531 	EXP 	letter_reminder: text = ' '
+12.2531 	EXP 	NL_Pair: autoDraw = True
+12.2531 	EXP 	number_reminder: autoDraw = True
+12.2531 	EXP 	letter_reminder: autoDraw = True
+12.3903 	EXP 	New trial (rep=0, index=10): OrderedDict([('pair', '9E'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+12.3981 	DATA 	Keypress: j
+12.4031 	EXP 	NL_Pair: autoDraw = False
+12.4031 	EXP 	number_reminder: autoDraw = False
+12.4031 	EXP 	letter_reminder: autoDraw = False
+12.4031 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+12.4031 	EXP 	NL_Pair: text = '9E'
+12.4031 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+12.4031 	EXP 	letter_reminder: text = ' '
+12.4031 	EXP 	NL_Pair: autoDraw = True
+12.4031 	EXP 	number_reminder: autoDraw = True
+12.4031 	EXP 	letter_reminder: autoDraw = True
+12.5406 	EXP 	New trial (rep=0, index=11): OrderedDict([('pair', '7K'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+12.5482 	DATA 	Keypress: j
+12.5531 	EXP 	NL_Pair: autoDraw = False
+12.5531 	EXP 	number_reminder: autoDraw = False
+12.5531 	EXP 	letter_reminder: autoDraw = False
+12.5531 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+12.5531 	EXP 	NL_Pair: text = '7K'
+12.5531 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+12.5531 	EXP 	letter_reminder: text = ' '
+12.5531 	EXP 	NL_Pair: autoDraw = True
+12.5531 	EXP 	number_reminder: autoDraw = True
+12.5531 	EXP 	letter_reminder: autoDraw = True
+12.7075 	EXP 	New trial (rep=0, index=12): OrderedDict([('pair', '8M'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+12.7199 	DATA 	Keypress: j
+12.7364 	EXP 	NL_Pair: autoDraw = False
+12.7364 	EXP 	number_reminder: autoDraw = False
+12.7364 	EXP 	letter_reminder: autoDraw = False
+12.7364 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+12.7364 	EXP 	NL_Pair: text = '8M'
+12.7364 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+12.7364 	EXP 	letter_reminder: text = ' '
+12.7364 	EXP 	NL_Pair: autoDraw = True
+12.7364 	EXP 	number_reminder: autoDraw = True
+12.7364 	EXP 	letter_reminder: autoDraw = True
+12.8743 	EXP 	New trial (rep=0, index=13): OrderedDict([('pair', '8K'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+12.8820 	DATA 	Keypress: j
+12.8864 	EXP 	NL_Pair: autoDraw = False
+12.8864 	EXP 	number_reminder: autoDraw = False
+12.8864 	EXP 	letter_reminder: autoDraw = False
+12.8864 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+12.8864 	EXP 	NL_Pair: text = '8K'
+12.8864 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+12.8864 	EXP 	letter_reminder: text = ' '
+12.8864 	EXP 	NL_Pair: autoDraw = True
+12.8864 	EXP 	number_reminder: autoDraw = True
+12.8864 	EXP 	letter_reminder: autoDraw = True
+13.0246 	EXP 	New trial (rep=0, index=14): OrderedDict([('pair', '5G'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+13.0323 	DATA 	Keypress: j
+13.0363 	EXP 	NL_Pair: autoDraw = False
+13.0363 	EXP 	number_reminder: autoDraw = False
+13.0363 	EXP 	letter_reminder: autoDraw = False
+13.0363 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+13.0363 	EXP 	NL_Pair: text = '5G'
+13.0363 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+13.0363 	EXP 	letter_reminder: text = ' '
+13.0363 	EXP 	NL_Pair: autoDraw = True
+13.0363 	EXP 	number_reminder: autoDraw = True
+13.0363 	EXP 	letter_reminder: autoDraw = True
+13.1911 	EXP 	New trial (rep=0, index=15): OrderedDict([('pair', '9U'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+13.2019 	DATA 	Keypress: j
+13.2197 	EXP 	NL_Pair: autoDraw = False
+13.2197 	EXP 	number_reminder: autoDraw = False
+13.2197 	EXP 	letter_reminder: autoDraw = False
+13.2197 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+13.2197 	EXP 	NL_Pair: text = '9U'
+13.2197 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+13.2197 	EXP 	letter_reminder: text = ' '
+13.2197 	EXP 	NL_Pair: autoDraw = True
+13.2197 	EXP 	number_reminder: autoDraw = True
+13.2197 	EXP 	letter_reminder: autoDraw = True
+13.3570 	EXP 	New trial (rep=0, index=16): OrderedDict([('pair', '1G'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+13.3657 	DATA 	Keypress: j
+13.3696 	EXP 	NL_Pair: autoDraw = False
+13.3696 	EXP 	number_reminder: autoDraw = False
+13.3696 	EXP 	letter_reminder: autoDraw = False
+13.3696 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+13.3696 	EXP 	NL_Pair: text = '1G'
+13.3696 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+13.3696 	EXP 	letter_reminder: text = ' '
+13.3696 	EXP 	NL_Pair: autoDraw = True
+13.3696 	EXP 	number_reminder: autoDraw = True
+13.3696 	EXP 	letter_reminder: autoDraw = True
+13.5241 	EXP 	New trial (rep=0, index=17): OrderedDict([('pair', '6I'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+13.5318 	DATA 	Keypress: j
+13.5363 	EXP 	NL_Pair: autoDraw = False
+13.5363 	EXP 	number_reminder: autoDraw = False
+13.5363 	EXP 	letter_reminder: autoDraw = False
+13.5363 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+13.5363 	EXP 	NL_Pair: text = '6I'
+13.5363 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+13.5363 	EXP 	letter_reminder: text = ' '
+13.5363 	EXP 	NL_Pair: autoDraw = True
+13.5363 	EXP 	number_reminder: autoDraw = True
+13.5363 	EXP 	letter_reminder: autoDraw = True
+13.6903 	EXP 	New trial (rep=0, index=18): OrderedDict([('pair', '5U'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+13.6980 	DATA 	Keypress: j
+13.7025 	EXP 	NL_Pair: autoDraw = False
+13.7025 	EXP 	number_reminder: autoDraw = False
+13.7025 	EXP 	letter_reminder: autoDraw = False
+13.7025 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+13.7025 	EXP 	NL_Pair: text = '5U'
+13.7025 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+13.7025 	EXP 	letter_reminder: text = ' '
+13.7025 	EXP 	NL_Pair: autoDraw = True
+13.7025 	EXP 	number_reminder: autoDraw = True
+13.7025 	EXP 	letter_reminder: autoDraw = True
+13.8408 	EXP 	New trial (rep=0, index=19): OrderedDict([('pair', '1M'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+13.8485 	DATA 	Keypress: j
+13.8524 	EXP 	NL_Pair: autoDraw = False
+13.8524 	EXP 	number_reminder: autoDraw = False
+13.8524 	EXP 	letter_reminder: autoDraw = False
+13.8524 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+13.8524 	EXP 	NL_Pair: text = '1M'
+13.8524 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+13.8524 	EXP 	letter_reminder: text = ' '
+13.8524 	EXP 	NL_Pair: autoDraw = True
+13.8524 	EXP 	number_reminder: autoDraw = True
+13.8524 	EXP 	letter_reminder: autoDraw = True
+14.0064 	EXP 	New trial (rep=0, index=20): OrderedDict([('pair', '3M'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+14.0160 	DATA 	Keypress: j
+14.0193 	EXP 	NL_Pair: autoDraw = False
+14.0193 	EXP 	number_reminder: autoDraw = False
+14.0193 	EXP 	letter_reminder: autoDraw = False
+14.0193 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+14.0193 	EXP 	NL_Pair: text = '3M'
+14.0193 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+14.0193 	EXP 	letter_reminder: text = ' '
+14.0193 	EXP 	NL_Pair: autoDraw = True
+14.0193 	EXP 	number_reminder: autoDraw = True
+14.0193 	EXP 	letter_reminder: autoDraw = True
+14.1729 	EXP 	New trial (rep=0, index=21): OrderedDict([('pair', '3K'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+14.1806 	DATA 	Keypress: j
+14.1857 	EXP 	NL_Pair: autoDraw = False
+14.1857 	EXP 	number_reminder: autoDraw = False
+14.1857 	EXP 	letter_reminder: autoDraw = False
+14.1857 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+14.1857 	EXP 	NL_Pair: text = '3K'
+14.1857 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+14.1857 	EXP 	letter_reminder: text = ' '
+14.1857 	EXP 	NL_Pair: autoDraw = True
+14.1857 	EXP 	number_reminder: autoDraw = True
+14.1857 	EXP 	letter_reminder: autoDraw = True
+14.3256 	DATA 	Keypress: j
+14.3399 	EXP 	New trial (rep=0, index=22): OrderedDict([('pair', '6E'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+14.3524 	EXP 	NL_Pair: autoDraw = False
+14.3524 	EXP 	number_reminder: autoDraw = False
+14.3524 	EXP 	letter_reminder: autoDraw = False
+14.3524 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+14.3524 	EXP 	NL_Pair: text = '6E'
+14.3524 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+14.3524 	EXP 	letter_reminder: text = ' '
+14.3524 	EXP 	NL_Pair: autoDraw = True
+14.3524 	EXP 	number_reminder: autoDraw = True
+14.3524 	EXP 	letter_reminder: autoDraw = True
+14.5069 	EXP 	New trial (rep=0, index=23): OrderedDict([('pair', '7I'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+14.5196 	DATA 	Keypress: j
+14.5357 	EXP 	NL_Pair: autoDraw = False
+14.5357 	EXP 	number_reminder: autoDraw = False
+14.5357 	EXP 	letter_reminder: autoDraw = False
+14.5357 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+14.5357 	EXP 	NL_Pair: text = '7I'
+14.5357 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+14.5357 	EXP 	letter_reminder: text = ' '
+14.5357 	EXP 	NL_Pair: autoDraw = True
+14.5357 	EXP 	number_reminder: autoDraw = True
+14.5357 	EXP 	letter_reminder: autoDraw = True
+14.6734 	EXP 	New trial (rep=0, index=24): OrderedDict([('pair', '8E'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+14.6835 	DATA 	Keypress: j
+14.7027 	EXP 	NL_Pair: autoDraw = False
+14.7027 	EXP 	number_reminder: autoDraw = False
+14.7027 	EXP 	letter_reminder: autoDraw = False
+14.7027 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+14.7027 	EXP 	NL_Pair: text = '8E'
+14.7027 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+14.7027 	EXP 	letter_reminder: text = ' '
+14.7027 	EXP 	NL_Pair: autoDraw = True
+14.7027 	EXP 	number_reminder: autoDraw = True
+14.7027 	EXP 	letter_reminder: autoDraw = True
+14.8402 	EXP 	New trial (rep=0, index=25): OrderedDict([('pair', '6A'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+14.8539 	DATA 	Keypress: j
+14.8690 	EXP 	NL_Pair: autoDraw = False
+14.8690 	EXP 	number_reminder: autoDraw = False
+14.8690 	EXP 	letter_reminder: autoDraw = False
+14.8690 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+14.8690 	EXP 	NL_Pair: text = '6A'
+14.8690 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+14.8690 	EXP 	letter_reminder: text = ' '
+14.8690 	EXP 	NL_Pair: autoDraw = True
+14.8690 	EXP 	number_reminder: autoDraw = True
+14.8690 	EXP 	letter_reminder: autoDraw = True
+15.0240 	EXP 	New trial (rep=0, index=26): OrderedDict([('pair', '2U'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+15.0333 	DATA 	Keypress: j
+15.0527 	EXP 	NL_Pair: autoDraw = False
+15.0527 	EXP 	number_reminder: autoDraw = False
+15.0527 	EXP 	letter_reminder: autoDraw = False
+15.0527 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+15.0527 	EXP 	NL_Pair: text = '2U'
+15.0527 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+15.0527 	EXP 	letter_reminder: text = ' '
+15.0527 	EXP 	NL_Pair: autoDraw = True
+15.0527 	EXP 	number_reminder: autoDraw = True
+15.0527 	EXP 	letter_reminder: autoDraw = True
+15.1746 	DATA 	Keypress: j
+15.1902 	EXP 	New trial (rep=0, index=27): OrderedDict([('pair', '8R'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+15.2023 	EXP 	NL_Pair: autoDraw = False
+15.2023 	EXP 	number_reminder: autoDraw = False
+15.2023 	EXP 	letter_reminder: autoDraw = False
+15.2023 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+15.2023 	EXP 	NL_Pair: text = '8R'
+15.2023 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+15.2023 	EXP 	letter_reminder: text = ' '
+15.2023 	EXP 	NL_Pair: autoDraw = True
+15.2023 	EXP 	number_reminder: autoDraw = True
+15.2023 	EXP 	letter_reminder: autoDraw = True
+15.3574 	DATA 	Keypress: j
+15.3728 	EXP 	New trial (rep=0, index=28): OrderedDict([('pair', '4A'), ('allowed', 'fj'), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+15.4194 	EXP 	NL_Pair: autoDraw = False
+15.4194 	EXP 	number_reminder: autoDraw = False
+15.4194 	EXP 	letter_reminder: autoDraw = False
+15.4194 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+15.4194 	EXP 	NL_Pair: text = '4A'
+15.4194 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+15.4194 	EXP 	letter_reminder: text = ' '
+15.4194 	EXP 	NL_Pair: autoDraw = True
+15.4194 	EXP 	number_reminder: autoDraw = True
+15.4194 	EXP 	letter_reminder: autoDraw = True
+15.4894 	EXP 	New trial (rep=0, index=29): OrderedDict([('pair', '5R'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+15.4971 	DATA 	Keypress: j
+15.5023 	EXP 	NL_Pair: autoDraw = False
+15.5023 	EXP 	number_reminder: autoDraw = False
+15.5023 	EXP 	letter_reminder: autoDraw = False
+15.5023 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+15.5023 	EXP 	NL_Pair: text = '5R'
+15.5023 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+15.5023 	EXP 	letter_reminder: text = ' '
+15.5023 	EXP 	NL_Pair: autoDraw = True
+15.5023 	EXP 	number_reminder: autoDraw = True
+15.5023 	EXP 	letter_reminder: autoDraw = True
+15.6570 	EXP 	New trial (rep=0, index=30): OrderedDict([('pair', '5K'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+15.6646 	DATA 	Keypress: j
+15.6691 	EXP 	NL_Pair: autoDraw = False
+15.6691 	EXP 	number_reminder: autoDraw = False
+15.6691 	EXP 	letter_reminder: autoDraw = False
+15.6691 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+15.6691 	EXP 	NL_Pair: text = '5K'
+15.6691 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+15.6691 	EXP 	letter_reminder: text = ' '
+15.6691 	EXP 	NL_Pair: autoDraw = True
+15.6691 	EXP 	number_reminder: autoDraw = True
+15.6691 	EXP 	letter_reminder: autoDraw = True
+15.8405 	EXP 	New trial (rep=0, index=31): OrderedDict([('pair', '3U'), ('allowed', 'fj'), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3]), ('num_reminder', 'F = Odd        J = Even'), ('lett_reminder', ' ')])
+15.8470 	DATA 	Keypress: j
+15.8527 	EXP 	NL_Pair: autoDraw = False
+15.8527 	EXP 	number_reminder: autoDraw = False
+15.8527 	EXP 	letter_reminder: autoDraw = False
+15.8527 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+15.8527 	EXP 	NL_Pair: text = '3U'
+15.8527 	EXP 	number_reminder: text = 'F = Odd        J = Even'
+15.8527 	EXP 	letter_reminder: text = ' '
+15.8527 	EXP 	NL_Pair: autoDraw = True
+15.8527 	EXP 	number_reminder: autoDraw = True
+15.8527 	EXP 	letter_reminder: autoDraw = True
+16.1017 	DATA 	Keypress: j
+16.1194 	EXP 	NL_Pair: autoDraw = False
+16.1194 	EXP 	number_reminder: autoDraw = False
+16.1194 	EXP 	letter_reminder: autoDraw = False
+16.1194 	EXP 	fdbk_txt: text = 'Good work! \n\nIn this second block, number-letter pairs will only appear on the bottom half of the screen. \n\nDecide if the letter is a consonant or a vowel. '
+16.1194 	EXP 	fdbk_txt: autoDraw = True
+16.1194 	EXP 	fdbk_cont: autoDraw = True
+16.2409 	DATA 	Keypress: j
+17.0730 	EXP 	New trial (rep=0, index=1): OrderedDict([('block', 2), ('cond_file', 'NLT_Block_2.xlsx'), ('ready_msg', 'Respond by pressing…  \n        D if the letter is a consonant. \n        K if the letter is a vowel.\n\nRemember... \n        Consonants are G, K, M, and R.\n        Vowels are A, E, I, and U.'), ('fdbk_msg', 'Good work! \n\nIn this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. ')])
+17.1382 	DATA 	Keypress: space
+17.1527 	EXP 	fdbk_txt: autoDraw = False
+17.1527 	EXP 	fdbk_cont: autoDraw = False
+17.1527 	EXP 	rdy_txt: text = 'Respond by pressing…  \n        D if the letter is a consonant. \n        K if the letter is a vowel.\n\nRemember... \n        Consonants are G, K, M, and R.\n        Vowels are A, E, I, and U.'
+17.1527 	EXP 	rdy_txt: autoDraw = True
+17.1527 	EXP 	rdy_cont: autoDraw = True
+18.4320 	EXP 	Imported NLT_Block_2.xlsx as conditions, 32 conditions, 7 params
+18.4323 	EXP 	Created sequence: sequential, trialTypes=32, nReps=1, seed=None
+18.4326 	EXP 	New trial (rep=0, index=0): OrderedDict([('pair', '3R'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+18.4504 	DATA 	Keypress: space
+18.4696 	EXP 	rdy_txt: autoDraw = False
+18.4696 	EXP 	rdy_cont: autoDraw = False
+18.4696 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+18.4696 	EXP 	NL_Pair: text = '3R'
+18.4696 	EXP 	number_reminder: text = ' '
+18.4696 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+18.4696 	EXP 	NL_Pair: autoDraw = True
+18.4696 	EXP 	number_reminder: autoDraw = True
+18.4696 	EXP 	letter_reminder: autoDraw = True
+18.9743 	DATA 	Keypress: j
+18.9903 	EXP 	New trial (rep=0, index=1): OrderedDict([('pair', '8I'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+19.0026 	EXP 	NL_Pair: autoDraw = False
+19.0026 	EXP 	number_reminder: autoDraw = False
+19.0026 	EXP 	letter_reminder: autoDraw = False
+19.0026 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+19.0026 	EXP 	NL_Pair: text = '8I'
+19.0026 	EXP 	number_reminder: text = ' '
+19.0026 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+19.0026 	EXP 	NL_Pair: autoDraw = True
+19.0026 	EXP 	number_reminder: autoDraw = True
+19.0026 	EXP 	letter_reminder: autoDraw = True
+19.1571 	EXP 	New trial (rep=0, index=2): OrderedDict([('pair', '2A'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+19.1669 	DATA 	Keypress: j
+19.1859 	EXP 	NL_Pair: autoDraw = False
+19.1859 	EXP 	number_reminder: autoDraw = False
+19.1859 	EXP 	letter_reminder: autoDraw = False
+19.1859 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+19.1859 	EXP 	NL_Pair: text = '2A'
+19.1859 	EXP 	number_reminder: text = ' '
+19.1859 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+19.1859 	EXP 	NL_Pair: autoDraw = True
+19.1859 	EXP 	number_reminder: autoDraw = True
+19.1859 	EXP 	letter_reminder: autoDraw = True
+19.3237 	EXP 	New trial (rep=0, index=3): OrderedDict([('pair', '8A'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+19.3334 	DATA 	Keypress: j
+19.3526 	EXP 	NL_Pair: autoDraw = False
+19.3526 	EXP 	number_reminder: autoDraw = False
+19.3526 	EXP 	letter_reminder: autoDraw = False
+19.3526 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+19.3526 	EXP 	NL_Pair: text = '8A'
+19.3526 	EXP 	number_reminder: text = ' '
+19.3526 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+19.3526 	EXP 	NL_Pair: autoDraw = True
+19.3526 	EXP 	number_reminder: autoDraw = True
+19.3526 	EXP 	letter_reminder: autoDraw = True
+19.5069 	EXP 	New trial (rep=0, index=4): OrderedDict([('pair', '9G'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+19.5144 	DATA 	Keypress: j
+19.5190 	EXP 	NL_Pair: autoDraw = False
+19.5190 	EXP 	number_reminder: autoDraw = False
+19.5190 	EXP 	letter_reminder: autoDraw = False
+19.5190 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+19.5190 	EXP 	NL_Pair: text = '9G'
+19.5190 	EXP 	number_reminder: text = ' '
+19.5190 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+19.5190 	EXP 	NL_Pair: autoDraw = True
+19.5190 	EXP 	number_reminder: autoDraw = True
+19.5190 	EXP 	letter_reminder: autoDraw = True
+19.6564 	EXP 	New trial (rep=0, index=5): OrderedDict([('pair', '4K'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+19.6640 	DATA 	Keypress: j
+19.6693 	EXP 	NL_Pair: autoDraw = False
+19.6693 	EXP 	number_reminder: autoDraw = False
+19.6693 	EXP 	letter_reminder: autoDraw = False
+19.6693 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+19.6693 	EXP 	NL_Pair: text = '4K'
+19.6693 	EXP 	number_reminder: text = ' '
+19.6693 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+19.6693 	EXP 	NL_Pair: autoDraw = True
+19.6693 	EXP 	number_reminder: autoDraw = True
+19.6693 	EXP 	letter_reminder: autoDraw = True
+19.8240 	EXP 	New trial (rep=0, index=6): OrderedDict([('pair', '1U'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+19.8319 	DATA 	Keypress: j
+19.8362 	EXP 	NL_Pair: autoDraw = False
+19.8362 	EXP 	number_reminder: autoDraw = False
+19.8362 	EXP 	letter_reminder: autoDraw = False
+19.8362 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+19.8362 	EXP 	NL_Pair: text = '1U'
+19.8362 	EXP 	number_reminder: text = ' '
+19.8362 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+19.8362 	EXP 	NL_Pair: autoDraw = True
+19.8362 	EXP 	number_reminder: autoDraw = True
+19.8362 	EXP 	letter_reminder: autoDraw = True
+19.9740 	DATA 	Keypress: j
+19.9905 	EXP 	New trial (rep=0, index=7): OrderedDict([('pair', '8G'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+20.0026 	EXP 	NL_Pair: autoDraw = False
+20.0026 	EXP 	number_reminder: autoDraw = False
+20.0026 	EXP 	letter_reminder: autoDraw = False
+20.0026 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+20.0026 	EXP 	NL_Pair: text = '8G'
+20.0026 	EXP 	number_reminder: text = ' '
+20.0026 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+20.0026 	EXP 	NL_Pair: autoDraw = True
+20.0026 	EXP 	number_reminder: autoDraw = True
+20.0026 	EXP 	letter_reminder: autoDraw = True
+20.1405 	DATA 	Keypress: j
+20.1571 	EXP 	New trial (rep=0, index=8): OrderedDict([('pair', '7R'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+20.1693 	EXP 	NL_Pair: autoDraw = False
+20.1693 	EXP 	number_reminder: autoDraw = False
+20.1693 	EXP 	letter_reminder: autoDraw = False
+20.1693 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+20.1693 	EXP 	NL_Pair: text = '7R'
+20.1693 	EXP 	number_reminder: text = ' '
+20.1693 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+20.1693 	EXP 	NL_Pair: autoDraw = True
+20.1693 	EXP 	number_reminder: autoDraw = True
+20.1693 	EXP 	letter_reminder: autoDraw = True
+20.3070 	EXP 	New trial (rep=0, index=9): OrderedDict([('pair', '1K'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+20.3146 	DATA 	Keypress: j
+20.3193 	EXP 	NL_Pair: autoDraw = False
+20.3193 	EXP 	number_reminder: autoDraw = False
+20.3193 	EXP 	letter_reminder: autoDraw = False
+20.3193 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+20.3193 	EXP 	NL_Pair: text = '1K'
+20.3193 	EXP 	number_reminder: text = ' '
+20.3193 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+20.3193 	EXP 	NL_Pair: autoDraw = True
+20.3193 	EXP 	number_reminder: autoDraw = True
+20.3193 	EXP 	letter_reminder: autoDraw = True
+20.4736 	EXP 	New trial (rep=0, index=10): OrderedDict([('pair', '5E'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+20.4811 	DATA 	Keypress: j
+20.4859 	EXP 	NL_Pair: autoDraw = False
+20.4859 	EXP 	number_reminder: autoDraw = False
+20.4859 	EXP 	letter_reminder: autoDraw = False
+20.4859 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+20.4859 	EXP 	NL_Pair: text = '5E'
+20.4859 	EXP 	number_reminder: text = ' '
+20.4859 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+20.4859 	EXP 	NL_Pair: autoDraw = True
+20.4859 	EXP 	number_reminder: autoDraw = True
+20.4859 	EXP 	letter_reminder: autoDraw = True
+20.6571 	EXP 	New trial (rep=0, index=11): OrderedDict([('pair', '7E'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+20.6646 	DATA 	Keypress: j
+20.6692 	EXP 	NL_Pair: autoDraw = False
+20.6692 	EXP 	number_reminder: autoDraw = False
+20.6692 	EXP 	letter_reminder: autoDraw = False
+20.6692 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+20.6692 	EXP 	NL_Pair: text = '7E'
+20.6692 	EXP 	number_reminder: text = ' '
+20.6692 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+20.6692 	EXP 	NL_Pair: autoDraw = True
+20.6692 	EXP 	number_reminder: autoDraw = True
+20.6692 	EXP 	letter_reminder: autoDraw = True
+20.8237 	EXP 	New trial (rep=0, index=12): OrderedDict([('pair', '2M'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+20.8312 	DATA 	Keypress: j
+20.8362 	EXP 	NL_Pair: autoDraw = False
+20.8362 	EXP 	number_reminder: autoDraw = False
+20.8362 	EXP 	letter_reminder: autoDraw = False
+20.8362 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+20.8362 	EXP 	NL_Pair: text = '2M'
+20.8362 	EXP 	number_reminder: text = ' '
+20.8362 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+20.8362 	EXP 	NL_Pair: autoDraw = True
+20.8362 	EXP 	number_reminder: autoDraw = True
+20.8362 	EXP 	letter_reminder: autoDraw = True
+20.9907 	DATA 	Keypress: j
+21.0062 	EXP 	New trial (rep=0, index=13): OrderedDict([('pair', '9A'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+21.0192 	EXP 	NL_Pair: autoDraw = False
+21.0192 	EXP 	number_reminder: autoDraw = False
+21.0192 	EXP 	letter_reminder: autoDraw = False
+21.0192 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+21.0192 	EXP 	NL_Pair: text = '9A'
+21.0192 	EXP 	number_reminder: text = ' '
+21.0192 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+21.0192 	EXP 	NL_Pair: autoDraw = True
+21.0192 	EXP 	number_reminder: autoDraw = True
+21.0192 	EXP 	letter_reminder: autoDraw = True
+21.1738 	EXP 	New trial (rep=0, index=14): OrderedDict([('pair', '4G'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+21.1813 	DATA 	Keypress: j
+21.1859 	EXP 	NL_Pair: autoDraw = False
+21.1859 	EXP 	number_reminder: autoDraw = False
+21.1859 	EXP 	letter_reminder: autoDraw = False
+21.1859 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+21.1859 	EXP 	NL_Pair: text = '4G'
+21.1859 	EXP 	number_reminder: text = ' '
+21.1859 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+21.1859 	EXP 	NL_Pair: autoDraw = True
+21.1859 	EXP 	number_reminder: autoDraw = True
+21.1859 	EXP 	letter_reminder: autoDraw = True
+21.3238 	DATA 	Keypress: j
+21.3403 	EXP 	New trial (rep=0, index=15): OrderedDict([('pair', '4U'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+21.3526 	EXP 	NL_Pair: autoDraw = False
+21.3526 	EXP 	number_reminder: autoDraw = False
+21.3526 	EXP 	letter_reminder: autoDraw = False
+21.3526 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+21.3526 	EXP 	NL_Pair: text = '4U'
+21.3526 	EXP 	number_reminder: text = ' '
+21.3526 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+21.3526 	EXP 	NL_Pair: autoDraw = True
+21.3526 	EXP 	number_reminder: autoDraw = True
+21.3526 	EXP 	letter_reminder: autoDraw = True
+21.5069 	EXP 	New trial (rep=0, index=16): OrderedDict([('pair', '9M'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+21.5144 	DATA 	Keypress: j
+21.5192 	EXP 	NL_Pair: autoDraw = False
+21.5192 	EXP 	number_reminder: autoDraw = False
+21.5192 	EXP 	letter_reminder: autoDraw = False
+21.5192 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+21.5192 	EXP 	NL_Pair: text = '9M'
+21.5192 	EXP 	number_reminder: text = ' '
+21.5192 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+21.5192 	EXP 	NL_Pair: autoDraw = True
+21.5192 	EXP 	number_reminder: autoDraw = True
+21.5192 	EXP 	letter_reminder: autoDraw = True
+21.6904 	EXP 	New trial (rep=0, index=17): OrderedDict([('pair', '6U'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+21.6979 	DATA 	Keypress: j
+21.7025 	EXP 	NL_Pair: autoDraw = False
+21.7025 	EXP 	number_reminder: autoDraw = False
+21.7025 	EXP 	letter_reminder: autoDraw = False
+21.7025 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+21.7025 	EXP 	NL_Pair: text = '6U'
+21.7025 	EXP 	number_reminder: text = ' '
+21.7025 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+21.7025 	EXP 	NL_Pair: autoDraw = True
+21.7025 	EXP 	number_reminder: autoDraw = True
+21.7025 	EXP 	letter_reminder: autoDraw = True
+21.8400 	EXP 	New trial (rep=0, index=18): OrderedDict([('pair', '9R'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+21.8465 	DATA 	Keypress: j
+21.8528 	EXP 	NL_Pair: autoDraw = False
+21.8528 	EXP 	number_reminder: autoDraw = False
+21.8528 	EXP 	letter_reminder: autoDraw = False
+21.8528 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+21.8528 	EXP 	NL_Pair: text = '9R'
+21.8528 	EXP 	number_reminder: text = ' '
+21.8528 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+21.8528 	EXP 	NL_Pair: autoDraw = True
+21.8528 	EXP 	number_reminder: autoDraw = True
+21.8528 	EXP 	letter_reminder: autoDraw = True
+22.0065 	EXP 	New trial (rep=0, index=19): OrderedDict([('pair', '7U'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+22.0140 	DATA 	Keypress: j
+22.0192 	EXP 	NL_Pair: autoDraw = False
+22.0192 	EXP 	number_reminder: autoDraw = False
+22.0192 	EXP 	letter_reminder: autoDraw = False
+22.0192 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+22.0192 	EXP 	NL_Pair: text = '7U'
+22.0192 	EXP 	number_reminder: text = ' '
+22.0192 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+22.0192 	EXP 	NL_Pair: autoDraw = True
+22.0192 	EXP 	number_reminder: autoDraw = True
+22.0192 	EXP 	letter_reminder: autoDraw = True
+22.1906 	DATA 	Keypress: j
+22.2070 	EXP 	New trial (rep=0, index=20): OrderedDict([('pair', '1I'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+22.2192 	EXP 	NL_Pair: autoDraw = False
+22.2192 	EXP 	number_reminder: autoDraw = False
+22.2192 	EXP 	letter_reminder: autoDraw = False
+22.2192 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+22.2192 	EXP 	NL_Pair: text = '1I'
+22.2192 	EXP 	number_reminder: text = ' '
+22.2192 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+22.2192 	EXP 	NL_Pair: autoDraw = True
+22.2192 	EXP 	number_reminder: autoDraw = True
+22.2192 	EXP 	letter_reminder: autoDraw = True
+22.3570 	DATA 	Keypress: j
+22.3735 	EXP 	New trial (rep=0, index=21): OrderedDict([('pair', '9K'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+22.3861 	EXP 	NL_Pair: autoDraw = False
+22.3861 	EXP 	number_reminder: autoDraw = False
+22.3861 	EXP 	letter_reminder: autoDraw = False
+22.3861 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+22.3861 	EXP 	NL_Pair: text = '9K'
+22.3861 	EXP 	number_reminder: text = ' '
+22.3861 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+22.3861 	EXP 	NL_Pair: autoDraw = True
+22.3861 	EXP 	number_reminder: autoDraw = True
+22.3861 	EXP 	letter_reminder: autoDraw = True
+22.5401 	EXP 	New trial (rep=0, index=22): OrderedDict([('pair', '4M'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+22.5476 	DATA 	Keypress: j
+22.5525 	EXP 	NL_Pair: autoDraw = False
+22.5525 	EXP 	number_reminder: autoDraw = False
+22.5525 	EXP 	letter_reminder: autoDraw = False
+22.5525 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+22.5525 	EXP 	NL_Pair: text = '4M'
+22.5525 	EXP 	number_reminder: text = ' '
+22.5525 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+22.5525 	EXP 	NL_Pair: autoDraw = True
+22.5525 	EXP 	number_reminder: autoDraw = True
+22.5525 	EXP 	letter_reminder: autoDraw = True
+22.7236 	EXP 	New trial (rep=0, index=23): OrderedDict([('pair', '6K'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+22.7311 	DATA 	Keypress: j
+22.7359 	EXP 	NL_Pair: autoDraw = False
+22.7359 	EXP 	number_reminder: autoDraw = False
+22.7359 	EXP 	letter_reminder: autoDraw = False
+22.7359 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+22.7359 	EXP 	NL_Pair: text = '6K'
+22.7359 	EXP 	number_reminder: text = ' '
+22.7359 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+22.7359 	EXP 	NL_Pair: autoDraw = True
+22.7359 	EXP 	number_reminder: autoDraw = True
+22.7359 	EXP 	letter_reminder: autoDraw = True
+22.9071 	EXP 	New trial (rep=0, index=24): OrderedDict([('pair', '3A'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+22.9159 	DATA 	Keypress: j
+22.9192 	EXP 	NL_Pair: autoDraw = False
+22.9192 	EXP 	number_reminder: autoDraw = False
+22.9192 	EXP 	letter_reminder: autoDraw = False
+22.9192 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+22.9192 	EXP 	NL_Pair: text = '3A'
+22.9192 	EXP 	number_reminder: text = ' '
+22.9192 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+22.9192 	EXP 	NL_Pair: autoDraw = True
+22.9192 	EXP 	number_reminder: autoDraw = True
+22.9192 	EXP 	letter_reminder: autoDraw = True
+23.0896 	EXP 	New trial (rep=0, index=25): OrderedDict([('pair', '6G'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+23.0971 	DATA 	Keypress: j
+23.1025 	EXP 	NL_Pair: autoDraw = False
+23.1025 	EXP 	number_reminder: autoDraw = False
+23.1025 	EXP 	letter_reminder: autoDraw = False
+23.1025 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+23.1025 	EXP 	NL_Pair: text = '6G'
+23.1025 	EXP 	number_reminder: text = ' '
+23.1025 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+23.1025 	EXP 	NL_Pair: autoDraw = True
+23.1025 	EXP 	number_reminder: autoDraw = True
+23.1025 	EXP 	letter_reminder: autoDraw = True
+23.2733 	EXP 	New trial (rep=0, index=26): OrderedDict([('pair', '7G'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+23.2809 	DATA 	Keypress: j
+23.2859 	EXP 	NL_Pair: autoDraw = False
+23.2859 	EXP 	number_reminder: autoDraw = False
+23.2859 	EXP 	letter_reminder: autoDraw = False
+23.2859 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+23.2859 	EXP 	NL_Pair: text = '7G'
+23.2859 	EXP 	number_reminder: text = ' '
+23.2859 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+23.2859 	EXP 	NL_Pair: autoDraw = True
+23.2859 	EXP 	number_reminder: autoDraw = True
+23.2859 	EXP 	letter_reminder: autoDraw = True
+23.4401 	EXP 	New trial (rep=0, index=27): OrderedDict([('pair', '2I'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+23.4475 	DATA 	Keypress: j
+23.4526 	EXP 	NL_Pair: autoDraw = False
+23.4526 	EXP 	number_reminder: autoDraw = False
+23.4526 	EXP 	letter_reminder: autoDraw = False
+23.4526 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+23.4526 	EXP 	NL_Pair: text = '2I'
+23.4526 	EXP 	number_reminder: text = ' '
+23.4526 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+23.4526 	EXP 	NL_Pair: autoDraw = True
+23.4526 	EXP 	number_reminder: autoDraw = True
+23.4526 	EXP 	letter_reminder: autoDraw = True
+23.6231 	EXP 	New trial (rep=0, index=28): OrderedDict([('pair', '5I'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+23.6296 	DATA 	Keypress: j
+23.6358 	EXP 	NL_Pair: autoDraw = False
+23.6358 	EXP 	number_reminder: autoDraw = False
+23.6358 	EXP 	letter_reminder: autoDraw = False
+23.6358 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+23.6358 	EXP 	NL_Pair: text = '5I'
+23.6358 	EXP 	number_reminder: text = ' '
+23.6358 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+23.6358 	EXP 	NL_Pair: autoDraw = True
+23.6358 	EXP 	number_reminder: autoDraw = True
+23.6358 	EXP 	letter_reminder: autoDraw = True
+23.8066 	EXP 	New trial (rep=0, index=29): OrderedDict([('pair', '4R'), ('allowed', 'dk'), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+23.8152 	DATA 	Keypress: j
+23.8192 	EXP 	NL_Pair: autoDraw = False
+23.8192 	EXP 	number_reminder: autoDraw = False
+23.8192 	EXP 	letter_reminder: autoDraw = False
+23.8192 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+23.8192 	EXP 	NL_Pair: text = '4R'
+23.8192 	EXP 	number_reminder: text = ' '
+23.8192 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+23.8192 	EXP 	NL_Pair: autoDraw = True
+23.8192 	EXP 	number_reminder: autoDraw = True
+23.8192 	EXP 	letter_reminder: autoDraw = True
+23.9731 	DATA 	Keypress: j
+23.9902 	EXP 	New trial (rep=0, index=30): OrderedDict([('pair', '8U'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+24.0025 	EXP 	NL_Pair: autoDraw = False
+24.0025 	EXP 	number_reminder: autoDraw = False
+24.0025 	EXP 	letter_reminder: autoDraw = False
+24.0025 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+24.0025 	EXP 	NL_Pair: text = '8U'
+24.0025 	EXP 	number_reminder: text = ' '
+24.0025 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+24.0025 	EXP 	NL_Pair: autoDraw = True
+24.0025 	EXP 	number_reminder: autoDraw = True
+24.0025 	EXP 	letter_reminder: autoDraw = True
+24.1571 	DATA 	Keypress: j
+24.1736 	EXP 	New trial (rep=0, index=31): OrderedDict([('pair', '5A'), ('allowed', 'dk'), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3]), ('num_reminder', ' '), ('lett_reminder', 'D = Consonant        K = Vowel')])
+24.1858 	EXP 	NL_Pair: autoDraw = False
+24.1858 	EXP 	number_reminder: autoDraw = False
+24.1858 	EXP 	letter_reminder: autoDraw = False
+24.1858 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+24.1858 	EXP 	NL_Pair: text = '5A'
+24.1858 	EXP 	number_reminder: text = ' '
+24.1858 	EXP 	letter_reminder: text = 'D = Consonant        K = Vowel'
+24.1858 	EXP 	NL_Pair: autoDraw = True
+24.1858 	EXP 	number_reminder: autoDraw = True
+24.1858 	EXP 	letter_reminder: autoDraw = True
+24.3242 	DATA 	Keypress: j
+24.4194 	EXP 	NL_Pair: autoDraw = False
+24.4194 	EXP 	number_reminder: autoDraw = False
+24.4194 	EXP 	letter_reminder: autoDraw = False
+24.4194 	EXP 	fdbk_txt: text = 'Good work! \n\nIn this third and final block, number-letter pairs will appear on the top and bottom halves of the screen. '
+24.4194 	EXP 	fdbk_txt: autoDraw = True
+24.4194 	EXP 	fdbk_cont: autoDraw = True
+24.5064 	DATA 	Keypress: j
+25.4237 	EXP 	New trial (rep=0, index=2): OrderedDict([('block', 3), ('cond_file', 'NLT_Block_3.xlsx'), ('ready_msg', 'If the pair appears in the top half…\n        Decide if the number is odd or even.\n\nIf the pair appears in the bottom half…\n        Decide if the letter is a consonant or a vowel. \n\nRespond by pressing \n        F if the number is odd\n        D if the letter is a consonant \n        J if the number is even\n        K if the letter is a vowel'), ('fdbk_msg', 'Good work! \n\nYou’ve finished this task.')])
+25.6039 	DATA 	Keypress: space
+25.6188 	EXP 	fdbk_txt: autoDraw = False
+25.6188 	EXP 	fdbk_cont: autoDraw = False
+25.6188 	EXP 	rdy_txt: text = 'If the pair appears in the top half…\n        Decide if the number is odd or even.\n\nIf the pair appears in the bottom half…\n        Decide if the letter is a consonant or a vowel. \n\nRespond by pressing \n        F if the number is odd\n        D if the letter is a consonant \n        J if the number is even\n        K if the letter is a vowel'
+25.6188 	EXP 	rdy_txt: autoDraw = True
+25.6188 	EXP 	rdy_cont: autoDraw = True
+26.6238 	DATA 	Keypress: escape
+26.8104 	EXP 	window1: mouseVisible = True

@@ -1,0 +1,1174 @@
+7.3707 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x139520b70>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x139514e48>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([3360, 2100]), stereo=False, units='height', useFBO=True, useRetina=True, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+7.3707 	EXP 	window1: recordFrameIntervals = False
+7.5369 	EXP 	window1: recordFrameIntervals = True
+7.7204 	EXP 	window1: recordFrameIntervals = False
+8.0564 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Any text\n\nincluding line breaks\n', units='height', win=Window(...), wrapWidth=1)
+8.0637 	EXP 	Created NL_Pair = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='NL_Pair', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='default text', units='height', win=Window(...), wrapWidth=1)
+8.0725 	EXP 	Created text_2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='white', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Arial', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='text_2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([255., 255., 255.]), text='Any text\n\nincluding line breaks', units='height', win=Window(...), wrapWidth=1)
+8.1314 	EXP 	text: autoDraw = True
+9.2345 	EXP 	Imported Number-Letter Task Combinations.xlsx as conditions, 192 conditions, 6 params
+9.2351 	EXP 	Created sequence: sequential, trialTypes=192, nReps=1, seed=None
+9.2354 	EXP 	New trial (rep=0, index=0): OrderedDict([('block', 1), ('pair', '2G'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+9.2768 	DATA 	Keypress: space
+9.2977 	EXP 	text: autoDraw = False
+9.2977 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+9.2977 	EXP 	NL_Pair: text = '2G'
+9.2977 	EXP 	NL_Pair: autoDraw = True
+11.7927 	EXP 	New trial (rep=0, index=1): OrderedDict([('block', 1), ('pair', '5I'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+11.8315 	DATA 	Keypress: f
+11.8569 	EXP 	NL_Pair: autoDraw = False
+11.8569 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+11.8569 	EXP 	NL_Pair: text = '5I'
+11.8569 	EXP 	NL_Pair: autoDraw = True
+13.4562 	EXP 	New trial (rep=0, index=2): OrderedDict([('block', 1), ('pair', '2K'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+13.4969 	DATA 	Keypress: j
+13.5109 	EXP 	NL_Pair: autoDraw = False
+13.5109 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+13.5109 	EXP 	NL_Pair: text = '2K'
+13.5109 	EXP 	NL_Pair: autoDraw = True
+13.8896 	EXP 	New trial (rep=0, index=3): OrderedDict([('block', 1), ('pair', '7A'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+13.9294 	DATA 	Keypress: f
+13.9434 	EXP 	NL_Pair: autoDraw = False
+13.9434 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+13.9434 	EXP 	NL_Pair: text = '7A'
+13.9434 	EXP 	NL_Pair: autoDraw = True
+14.2228 	EXP 	New trial (rep=0, index=4): OrderedDict([('block', 1), ('pair', '1E'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+14.2619 	DATA 	Keypress: j
+14.2760 	EXP 	NL_Pair: autoDraw = False
+14.2760 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+14.2760 	EXP 	NL_Pair: text = '1E'
+14.2760 	EXP 	NL_Pair: autoDraw = True
+14.5726 	EXP 	New trial (rep=0, index=5): OrderedDict([('block', 1), ('pair', '6R'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+14.6114 	DATA 	Keypress: f
+14.6254 	EXP 	NL_Pair: autoDraw = False
+14.6254 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+14.6254 	EXP 	NL_Pair: text = '6R'
+14.6254 	EXP 	NL_Pair: autoDraw = True
+14.7897 	EXP 	New trial (rep=0, index=6): OrderedDict([('block', 1), ('pair', '9I'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+14.8287 	DATA 	Keypress: j
+14.8429 	EXP 	NL_Pair: autoDraw = False
+14.8429 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+14.8429 	EXP 	NL_Pair: text = '9I'
+14.8429 	EXP 	NL_Pair: autoDraw = True
+15.0231 	EXP 	New trial (rep=0, index=7): OrderedDict([('block', 1), ('pair', '6M'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+15.0617 	DATA 	Keypress: f
+15.0758 	EXP 	NL_Pair: autoDraw = False
+15.0758 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+15.0758 	EXP 	NL_Pair: text = '6M'
+15.0758 	EXP 	NL_Pair: autoDraw = True
+15.1403 	EXP 	New trial (rep=0, index=8): OrderedDict([('block', 1), ('pair', '1R'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+15.1764 	DATA 	Keypress: j
+15.1904 	EXP 	NL_Pair: autoDraw = False
+15.1904 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+15.1904 	EXP 	NL_Pair: text = '1R'
+15.1904 	EXP 	NL_Pair: autoDraw = True
+15.3403 	EXP 	New trial (rep=0, index=9): OrderedDict([('block', 1), ('pair', '2R'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+15.3765 	DATA 	Keypress: f
+15.3906 	EXP 	NL_Pair: autoDraw = False
+15.3906 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+15.3906 	EXP 	NL_Pair: text = '2R'
+15.3906 	EXP 	NL_Pair: autoDraw = True
+15.4735 	EXP 	New trial (rep=0, index=10): OrderedDict([('block', 1), ('pair', '9E'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+15.5116 	DATA 	Keypress: j
+15.5255 	EXP 	NL_Pair: autoDraw = False
+15.5255 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+15.5255 	EXP 	NL_Pair: text = '9E'
+15.5255 	EXP 	NL_Pair: autoDraw = True
+15.6235 	EXP 	New trial (rep=0, index=11): OrderedDict([('block', 1), ('pair', '7K'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+15.6619 	DATA 	Keypress: f
+15.6759 	EXP 	NL_Pair: autoDraw = False
+15.6759 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+15.6759 	EXP 	NL_Pair: text = '7K'
+15.6759 	EXP 	NL_Pair: autoDraw = True
+15.6770 	EXP 	New trial (rep=0, index=12): OrderedDict([('block', 1), ('pair', '8M'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+15.7150 	DATA 	Keypress: j
+15.7399 	EXP 	NL_Pair: autoDraw = False
+15.7399 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+15.7399 	EXP 	NL_Pair: text = '8M'
+15.7399 	EXP 	NL_Pair: autoDraw = True
+15.8419 	EXP 	New trial (rep=0, index=13): OrderedDict([('block', 1), ('pair', '8K'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+15.8810 	DATA 	Keypress: f
+15.9066 	EXP 	NL_Pair: autoDraw = False
+15.9066 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+15.9066 	EXP 	NL_Pair: text = '8K'
+15.9066 	EXP 	NL_Pair: autoDraw = True
+15.9579 	EXP 	New trial (rep=0, index=14): OrderedDict([('block', 1), ('pair', '5G'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+15.9944 	DATA 	Keypress: j
+16.0084 	EXP 	NL_Pair: autoDraw = False
+16.0084 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+16.0084 	EXP 	NL_Pair: text = '5G'
+16.0084 	EXP 	NL_Pair: autoDraw = True
+16.0754 	EXP 	New trial (rep=0, index=15): OrderedDict([('block', 1), ('pair', '9U'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+16.1189 	EXP 	New trial (rep=0, index=16): OrderedDict([('block', 1), ('pair', '1G'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+16.1584 	DATA 	Keypress: f
+16.1598 	DATA 	Keypress: j
+16.1802 	EXP 	NL_Pair: autoDraw = False
+16.1802 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+16.1802 	EXP 	NL_Pair: text = '9U'
+16.1802 	EXP 	NL_Pair: autoDraw = True
+16.1802 	EXP 	NL_Pair: autoDraw = False
+16.1802 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+16.1802 	EXP 	NL_Pair: text = '1G'
+16.1802 	EXP 	NL_Pair: autoDraw = True
+16.5248 	EXP 	New trial (rep=0, index=17): OrderedDict([('block', 1), ('pair', '6I'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+16.5611 	DATA 	Keypress: j
+16.5751 	EXP 	NL_Pair: autoDraw = False
+16.5751 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+16.5751 	EXP 	NL_Pair: text = '6I'
+16.5751 	EXP 	NL_Pair: autoDraw = True
+16.6917 	EXP 	New trial (rep=0, index=18): OrderedDict([('block', 1), ('pair', '5U'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+16.7316 	DATA 	Keypress: f
+16.7563 	EXP 	NL_Pair: autoDraw = False
+16.7563 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+16.7563 	EXP 	NL_Pair: text = '5U'
+16.7563 	EXP 	NL_Pair: autoDraw = True
+16.8269 	EXP 	New trial (rep=0, index=19): OrderedDict([('block', 1), ('pair', '1M'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+16.8653 	DATA 	Keypress: j
+16.8897 	EXP 	NL_Pair: autoDraw = False
+16.8897 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+16.8897 	EXP 	NL_Pair: text = '1M'
+16.8897 	EXP 	NL_Pair: autoDraw = True
+17.0245 	EXP 	New trial (rep=0, index=20): OrderedDict([('block', 1), ('pair', '3M'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+17.0604 	EXP 	New trial (rep=0, index=21): OrderedDict([('block', 1), ('pair', '3K'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+17.0978 	DATA 	Keypress: f
+17.0991 	DATA 	Keypress: j
+17.1241 	EXP 	NL_Pair: autoDraw = False
+17.1241 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+17.1241 	EXP 	NL_Pair: text = '3M'
+17.1241 	EXP 	NL_Pair: autoDraw = True
+17.1241 	EXP 	NL_Pair: autoDraw = False
+17.1241 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+17.1241 	EXP 	NL_Pair: text = '3K'
+17.1241 	EXP 	NL_Pair: autoDraw = True
+17.1920 	EXP 	New trial (rep=0, index=22): OrderedDict([('block', 1), ('pair', '6E'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+17.2286 	DATA 	Keypress: f
+17.2428 	EXP 	NL_Pair: autoDraw = False
+17.2428 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+17.2428 	EXP 	NL_Pair: text = '6E'
+17.2428 	EXP 	NL_Pair: autoDraw = True
+17.3231 	EXP 	New trial (rep=0, index=23): OrderedDict([('block', 1), ('pair', '7I'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+17.3593 	DATA 	Keypress: j
+17.3737 	EXP 	NL_Pair: autoDraw = False
+17.3737 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+17.3737 	EXP 	NL_Pair: text = '7I'
+17.3737 	EXP 	NL_Pair: autoDraw = True
+17.4419 	EXP 	New trial (rep=0, index=24): OrderedDict([('block', 1), ('pair', '8E'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+17.4788 	DATA 	Keypress: f
+17.4928 	EXP 	NL_Pair: autoDraw = False
+17.4928 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+17.4928 	EXP 	NL_Pair: text = '8E'
+17.4928 	EXP 	NL_Pair: autoDraw = True
+17.5227 	EXP 	New trial (rep=0, index=25): OrderedDict([('block', 1), ('pair', '6A'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+17.5605 	DATA 	Keypress: j
+17.5749 	EXP 	NL_Pair: autoDraw = False
+17.5749 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+17.5749 	EXP 	NL_Pair: text = '6A'
+17.5749 	EXP 	NL_Pair: autoDraw = True
+17.6560 	EXP 	New trial (rep=0, index=26): OrderedDict([('block', 1), ('pair', '2U'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+17.6931 	DATA 	Keypress: f
+17.7070 	EXP 	NL_Pair: autoDraw = False
+17.7070 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+17.7070 	EXP 	NL_Pair: text = '2U'
+17.7070 	EXP 	NL_Pair: autoDraw = True
+17.7898 	EXP 	New trial (rep=0, index=27): OrderedDict([('block', 1), ('pair', '8R'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+17.8274 	DATA 	Keypress: j
+17.8413 	EXP 	NL_Pair: autoDraw = False
+17.8413 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+17.8413 	EXP 	NL_Pair: text = '8R'
+17.8413 	EXP 	NL_Pair: autoDraw = True
+17.8899 	EXP 	New trial (rep=0, index=28): OrderedDict([('block', 1), ('pair', '4A'), ('allowed', "'f', 'j'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+17.9282 	DATA 	Keypress: f
+17.9422 	EXP 	NL_Pair: autoDraw = False
+17.9422 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+17.9422 	EXP 	NL_Pair: text = '4A'
+17.9422 	EXP 	NL_Pair: autoDraw = True
+18.9249 	DATA 	Keypress: escape
+21.4898 	DATA 	Mouse: Left button down, pos=(807,1039)
+21.6398 	DATA 	Mouse:  Left button up, pos=(807,1039)
+26.1915 	DATA 	Mouse: Left button down, pos=(500,853)
+26.3094 	DATA 	Mouse:  Left button up, pos=(500,853)
+28.8927 	EXP 	New trial (rep=0, index=29): OrderedDict([('block', 1), ('pair', '5R'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+28.9300 	DATA 	Keypress: f
+28.9445 	EXP 	NL_Pair: autoDraw = False
+28.9445 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+28.9445 	EXP 	NL_Pair: text = '5R'
+28.9445 	EXP 	NL_Pair: autoDraw = True
+29.0087 	EXP 	New trial (rep=0, index=30): OrderedDict([('block', 1), ('pair', '5K'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+29.0442 	DATA 	Keypress: f
+29.0584 	EXP 	NL_Pair: autoDraw = False
+29.0584 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+29.0584 	EXP 	NL_Pair: text = '5K'
+29.0584 	EXP 	NL_Pair: autoDraw = True
+29.1443 	EXP 	New trial (rep=0, index=31): OrderedDict([('block', 1), ('pair', '3U'), ('allowed', "'f', 'j'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+29.1826 	DATA 	Keypress: f
+29.2077 	EXP 	NL_Pair: autoDraw = False
+29.2077 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+29.2077 	EXP 	NL_Pair: text = '3U'
+29.2077 	EXP 	NL_Pair: autoDraw = True
+29.8435 	EXP 	New trial (rep=0, index=32): OrderedDict([('block', 2), ('pair', '3R'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+29.8877 	DATA 	Keypress: f
+29.9114 	EXP 	NL_Pair: autoDraw = False
+29.9114 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+29.9114 	EXP 	NL_Pair: text = '3R'
+29.9114 	EXP 	NL_Pair: autoDraw = True
+30.0097 	EXP 	New trial (rep=0, index=33): OrderedDict([('block', 2), ('pair', '8I'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+30.0554 	DATA 	Keypress: f
+30.0781 	EXP 	NL_Pair: autoDraw = False
+30.0781 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+30.0781 	EXP 	NL_Pair: text = '8I'
+30.0781 	EXP 	NL_Pair: autoDraw = True
+30.1607 	EXP 	New trial (rep=0, index=34): OrderedDict([('block', 2), ('pair', '2A'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+30.2043 	DATA 	Keypress: f
+30.2278 	EXP 	NL_Pair: autoDraw = False
+30.2278 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+30.2278 	EXP 	NL_Pair: text = '2A'
+30.2278 	EXP 	NL_Pair: autoDraw = True
+30.2935 	EXP 	New trial (rep=0, index=35): OrderedDict([('block', 2), ('pair', '8A'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+30.3382 	DATA 	Keypress: f
+30.3611 	EXP 	NL_Pair: autoDraw = False
+30.3611 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+30.3611 	EXP 	NL_Pair: text = '8A'
+30.3611 	EXP 	NL_Pair: autoDraw = True
+30.4264 	EXP 	New trial (rep=0, index=36): OrderedDict([('block', 2), ('pair', '9G'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+30.4710 	DATA 	Keypress: f
+30.4948 	EXP 	NL_Pair: autoDraw = False
+30.4948 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+30.4948 	EXP 	NL_Pair: text = '9G'
+30.4948 	EXP 	NL_Pair: autoDraw = True
+30.5603 	EXP 	New trial (rep=0, index=37): OrderedDict([('block', 2), ('pair', '4K'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+30.6055 	DATA 	Keypress: f
+30.6280 	EXP 	NL_Pair: autoDraw = False
+30.6280 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+30.6280 	EXP 	NL_Pair: text = '4K'
+30.6280 	EXP 	NL_Pair: autoDraw = True
+30.7101 	EXP 	New trial (rep=0, index=38): OrderedDict([('block', 2), ('pair', '1U'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+30.7540 	DATA 	Keypress: f
+30.7776 	EXP 	NL_Pair: autoDraw = False
+30.7776 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+30.7776 	EXP 	NL_Pair: text = '1U'
+30.7776 	EXP 	NL_Pair: autoDraw = True
+30.8439 	EXP 	New trial (rep=0, index=39): OrderedDict([('block', 2), ('pair', '8G'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+30.8880 	DATA 	Keypress: f
+30.9109 	EXP 	NL_Pair: autoDraw = False
+30.9109 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+30.9109 	EXP 	NL_Pair: text = '8G'
+30.9109 	EXP 	NL_Pair: autoDraw = True
+30.9932 	EXP 	New trial (rep=0, index=40): OrderedDict([('block', 2), ('pair', '7R'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+31.0371 	DATA 	Keypress: f
+31.0608 	EXP 	NL_Pair: autoDraw = False
+31.0608 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+31.0608 	EXP 	NL_Pair: text = '7R'
+31.0608 	EXP 	NL_Pair: autoDraw = True
+31.1429 	EXP 	New trial (rep=0, index=41): OrderedDict([('block', 2), ('pair', '1K'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+31.1858 	DATA 	Keypress: f
+31.2108 	EXP 	NL_Pair: autoDraw = False
+31.2108 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+31.2108 	EXP 	NL_Pair: text = '1K'
+31.2108 	EXP 	NL_Pair: autoDraw = True
+31.2948 	EXP 	New trial (rep=0, index=42): OrderedDict([('block', 2), ('pair', '5E'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+31.3385 	DATA 	Keypress: f
+31.3605 	EXP 	NL_Pair: autoDraw = False
+31.3605 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+31.3605 	EXP 	NL_Pair: text = '5E'
+31.3605 	EXP 	NL_Pair: autoDraw = True
+31.4428 	EXP 	New trial (rep=0, index=43): OrderedDict([('block', 2), ('pair', '7E'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+31.4874 	DATA 	Keypress: f
+31.5108 	EXP 	NL_Pair: autoDraw = False
+31.5108 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+31.5108 	EXP 	NL_Pair: text = '7E'
+31.5108 	EXP 	NL_Pair: autoDraw = True
+31.6109 	EXP 	New trial (rep=0, index=44): OrderedDict([('block', 2), ('pair', '2M'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+31.6550 	DATA 	Keypress: f
+31.6778 	EXP 	NL_Pair: autoDraw = False
+31.6778 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+31.6778 	EXP 	NL_Pair: text = '2M'
+31.6778 	EXP 	NL_Pair: autoDraw = True
+31.7594 	EXP 	New trial (rep=0, index=45): OrderedDict([('block', 2), ('pair', '9A'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+31.8043 	DATA 	Keypress: f
+31.8281 	EXP 	NL_Pair: autoDraw = False
+31.8281 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+31.8281 	EXP 	NL_Pair: text = '9A'
+31.8281 	EXP 	NL_Pair: autoDraw = True
+31.9275 	EXP 	New trial (rep=0, index=46): OrderedDict([('block', 2), ('pair', '4G'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+31.9726 	DATA 	Keypress: f
+31.9947 	EXP 	NL_Pair: autoDraw = False
+31.9947 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+31.9947 	EXP 	NL_Pair: text = '4G'
+31.9947 	EXP 	NL_Pair: autoDraw = True
+32.0768 	EXP 	New trial (rep=0, index=47): OrderedDict([('block', 2), ('pair', '4U'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+32.1206 	DATA 	Keypress: f
+32.1444 	EXP 	NL_Pair: autoDraw = False
+32.1444 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+32.1444 	EXP 	NL_Pair: text = '4U'
+32.1444 	EXP 	NL_Pair: autoDraw = True
+32.2105 	EXP 	New trial (rep=0, index=48): OrderedDict([('block', 2), ('pair', '9M'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+32.2531 	DATA 	Keypress: f
+32.2745 	EXP 	NL_Pair: autoDraw = False
+32.2745 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+32.2745 	EXP 	NL_Pair: text = '9M'
+32.2745 	EXP 	NL_Pair: autoDraw = True
+32.3762 	EXP 	New trial (rep=0, index=49): OrderedDict([('block', 2), ('pair', '6U'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+32.4211 	DATA 	Keypress: f
+32.4447 	EXP 	NL_Pair: autoDraw = False
+32.4447 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+32.4447 	EXP 	NL_Pair: text = '6U'
+32.4447 	EXP 	NL_Pair: autoDraw = True
+32.5254 	EXP 	New trial (rep=0, index=50): OrderedDict([('block', 2), ('pair', '9R'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+32.5699 	DATA 	Keypress: f
+32.5947 	EXP 	NL_Pair: autoDraw = False
+32.5947 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+32.5947 	EXP 	NL_Pair: text = '9R'
+32.5947 	EXP 	NL_Pair: autoDraw = True
+32.6776 	EXP 	New trial (rep=0, index=51): OrderedDict([('block', 2), ('pair', '7U'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+32.7224 	DATA 	Keypress: f
+32.7442 	EXP 	NL_Pair: autoDraw = False
+32.7442 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+32.7442 	EXP 	NL_Pair: text = '7U'
+32.7442 	EXP 	NL_Pair: autoDraw = True
+32.8281 	EXP 	New trial (rep=0, index=52): OrderedDict([('block', 2), ('pair', '1I'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+32.8713 	DATA 	Keypress: f
+32.8934 	EXP 	NL_Pair: autoDraw = False
+32.8934 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+32.8934 	EXP 	NL_Pair: text = '1I'
+32.8934 	EXP 	NL_Pair: autoDraw = True
+32.9776 	EXP 	New trial (rep=0, index=53): OrderedDict([('block', 2), ('pair', '9K'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+33.0213 	DATA 	Keypress: f
+33.0442 	EXP 	NL_Pair: autoDraw = False
+33.0442 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+33.0442 	EXP 	NL_Pair: text = '9K'
+33.0442 	EXP 	NL_Pair: autoDraw = True
+33.1443 	EXP 	New trial (rep=0, index=54): OrderedDict([('block', 2), ('pair', '4M'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+33.1881 	DATA 	Keypress: f
+33.2109 	EXP 	NL_Pair: autoDraw = False
+33.2109 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+33.2109 	EXP 	NL_Pair: text = '4M'
+33.2109 	EXP 	NL_Pair: autoDraw = True
+33.2926 	EXP 	New trial (rep=0, index=55): OrderedDict([('block', 2), ('pair', '6K'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+33.3361 	DATA 	Keypress: f
+33.3607 	EXP 	NL_Pair: autoDraw = False
+33.3607 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+33.3607 	EXP 	NL_Pair: text = '6K'
+33.3607 	EXP 	NL_Pair: autoDraw = True
+33.4430 	EXP 	New trial (rep=0, index=56): OrderedDict([('block', 2), ('pair', '3A'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+33.4881 	DATA 	Keypress: f
+33.5109 	EXP 	NL_Pair: autoDraw = False
+33.5109 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+33.5109 	EXP 	NL_Pair: text = '3A'
+33.5109 	EXP 	NL_Pair: autoDraw = True
+33.5947 	EXP 	New trial (rep=0, index=57): OrderedDict([('block', 2), ('pair', '6G'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+33.6374 	DATA 	Keypress: f
+33.6608 	EXP 	NL_Pair: autoDraw = False
+33.6608 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+33.6608 	EXP 	NL_Pair: text = '6G'
+33.6608 	EXP 	NL_Pair: autoDraw = True
+33.7273 	EXP 	New trial (rep=0, index=58): OrderedDict([('block', 2), ('pair', '7G'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+33.7702 	DATA 	Keypress: f
+33.7916 	EXP 	NL_Pair: autoDraw = False
+33.7916 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+33.7916 	EXP 	NL_Pair: text = '7G'
+33.7916 	EXP 	NL_Pair: autoDraw = True
+33.8774 	EXP 	New trial (rep=0, index=59): OrderedDict([('block', 2), ('pair', '2I'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+33.9209 	DATA 	Keypress: f
+33.9441 	EXP 	NL_Pair: autoDraw = False
+33.9441 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+33.9441 	EXP 	NL_Pair: text = '2I'
+33.9441 	EXP 	NL_Pair: autoDraw = True
+34.0104 	EXP 	New trial (rep=0, index=60): OrderedDict([('block', 2), ('pair', '5I'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+34.0529 	DATA 	Keypress: f
+34.0773 	EXP 	NL_Pair: autoDraw = False
+34.0773 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+34.0773 	EXP 	NL_Pair: text = '5I'
+34.0773 	EXP 	NL_Pair: autoDraw = True
+34.1613 	EXP 	New trial (rep=0, index=61): OrderedDict([('block', 2), ('pair', '4R'), ('allowed', "'d', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+34.2065 	DATA 	Keypress: f
+34.2280 	EXP 	NL_Pair: autoDraw = False
+34.2280 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+34.2280 	EXP 	NL_Pair: text = '4R'
+34.2280 	EXP 	NL_Pair: autoDraw = True
+34.3099 	EXP 	New trial (rep=0, index=62): OrderedDict([('block', 2), ('pair', '8U'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [-0.3, -0.3])])
+34.3536 	DATA 	Keypress: f
+34.3777 	EXP 	NL_Pair: autoDraw = False
+34.3777 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+34.3777 	EXP 	NL_Pair: text = '8U'
+34.3777 	EXP 	NL_Pair: autoDraw = True
+34.4761 	EXP 	New trial (rep=0, index=63): OrderedDict([('block', 2), ('pair', '5A'), ('allowed', "'d', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [0.3, -0.3])])
+34.5228 	DATA 	Keypress: f
+34.5446 	EXP 	NL_Pair: autoDraw = False
+34.5446 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+34.5446 	EXP 	NL_Pair: text = '5A'
+34.5446 	EXP 	NL_Pair: autoDraw = True
+34.6264 	EXP 	New trial (rep=0, index=64): OrderedDict([('block', 3), ('pair', '2G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+34.6692 	DATA 	Keypress: f
+34.6947 	EXP 	NL_Pair: autoDraw = False
+34.6947 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+34.6947 	EXP 	NL_Pair: text = '2G'
+34.6947 	EXP 	NL_Pair: autoDraw = True
+34.7777 	EXP 	New trial (rep=0, index=65): OrderedDict([('block', 3), ('pair', '5I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+34.8209 	DATA 	Keypress: f
+34.8457 	EXP 	NL_Pair: autoDraw = False
+34.8457 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+34.8457 	EXP 	NL_Pair: text = '5I'
+34.8457 	EXP 	NL_Pair: autoDraw = True
+34.9423 	EXP 	New trial (rep=0, index=66): OrderedDict([('block', 3), ('pair', '2K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+34.9849 	DATA 	Keypress: f
+35.0114 	EXP 	NL_Pair: autoDraw = False
+35.0114 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+35.0114 	EXP 	NL_Pair: text = '2K'
+35.0114 	EXP 	NL_Pair: autoDraw = True
+35.1246 	EXP 	New trial (rep=0, index=67): OrderedDict([('block', 3), ('pair', '7A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+35.1661 	DATA 	Keypress: f
+35.1901 	EXP 	NL_Pair: autoDraw = False
+35.1901 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+35.1901 	EXP 	NL_Pair: text = '7A'
+35.1901 	EXP 	NL_Pair: autoDraw = True
+35.2780 	EXP 	New trial (rep=0, index=68): OrderedDict([('block', 3), ('pair', '1E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+35.3218 	DATA 	Keypress: f
+35.3443 	EXP 	NL_Pair: autoDraw = False
+35.3443 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+35.3443 	EXP 	NL_Pair: text = '1E'
+35.3443 	EXP 	NL_Pair: autoDraw = True
+35.4277 	EXP 	New trial (rep=0, index=69): OrderedDict([('block', 3), ('pair', '6R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+35.4718 	DATA 	Keypress: f
+35.4944 	EXP 	NL_Pair: autoDraw = False
+35.4944 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+35.4944 	EXP 	NL_Pair: text = '6R'
+35.4944 	EXP 	NL_Pair: autoDraw = True
+35.5605 	EXP 	New trial (rep=0, index=70): OrderedDict([('block', 3), ('pair', '9I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+35.6044 	DATA 	Keypress: f
+35.6278 	EXP 	NL_Pair: autoDraw = False
+35.6278 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+35.6278 	EXP 	NL_Pair: text = '9I'
+35.6278 	EXP 	NL_Pair: autoDraw = True
+35.7263 	EXP 	New trial (rep=0, index=71): OrderedDict([('block', 3), ('pair', '6M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+35.7712 	DATA 	Keypress: f
+35.7946 	EXP 	NL_Pair: autoDraw = False
+35.7946 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+35.7946 	EXP 	NL_Pair: text = '6M'
+35.7946 	EXP 	NL_Pair: autoDraw = True
+35.8761 	EXP 	New trial (rep=0, index=72): OrderedDict([('block', 3), ('pair', '1R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+35.9191 	DATA 	Keypress: f
+35.9409 	EXP 	NL_Pair: autoDraw = False
+35.9409 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+35.9409 	EXP 	NL_Pair: text = '1R'
+35.9409 	EXP 	NL_Pair: autoDraw = True
+36.0273 	EXP 	New trial (rep=0, index=73): OrderedDict([('block', 3), ('pair', '9E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+36.0710 	DATA 	Keypress: f
+36.0947 	EXP 	NL_Pair: autoDraw = False
+36.0947 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+36.0947 	EXP 	NL_Pair: text = '9E'
+36.0947 	EXP 	NL_Pair: autoDraw = True
+36.1945 	EXP 	New trial (rep=0, index=74): OrderedDict([('block', 3), ('pair', '7K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+36.2379 	DATA 	Keypress: f
+36.2609 	EXP 	NL_Pair: autoDraw = False
+36.2609 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+36.2609 	EXP 	NL_Pair: text = '7K'
+36.2609 	EXP 	NL_Pair: autoDraw = True
+36.3425 	EXP 	New trial (rep=0, index=75): OrderedDict([('block', 3), ('pair', '8M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+36.3864 	DATA 	Keypress: f
+36.4113 	EXP 	NL_Pair: autoDraw = False
+36.4113 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+36.4113 	EXP 	NL_Pair: text = '8M'
+36.4113 	EXP 	NL_Pair: autoDraw = True
+36.5094 	EXP 	New trial (rep=0, index=76): OrderedDict([('block', 3), ('pair', '8K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+36.5546 	DATA 	Keypress: f
+36.5781 	EXP 	NL_Pair: autoDraw = False
+36.5781 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+36.5781 	EXP 	NL_Pair: text = '8K'
+36.5781 	EXP 	NL_Pair: autoDraw = True
+36.9757 	EXP 	New trial (rep=0, index=77): OrderedDict([('block', 3), ('pair', '5G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+37.0191 	DATA 	Keypress: f
+37.0445 	EXP 	NL_Pair: autoDraw = False
+37.0445 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+37.0445 	EXP 	NL_Pair: text = '5G'
+37.0445 	EXP 	NL_Pair: autoDraw = True
+37.2776 	EXP 	New trial (rep=0, index=78): OrderedDict([('block', 3), ('pair', '9U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+37.3212 	DATA 	Keypress: f
+37.3443 	EXP 	NL_Pair: autoDraw = False
+37.3443 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+37.3443 	EXP 	NL_Pair: text = '9U'
+37.3443 	EXP 	NL_Pair: autoDraw = True
+37.7271 	EXP 	New trial (rep=0, index=79): OrderedDict([('block', 3), ('pair', '1G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+37.7705 	DATA 	Keypress: f
+37.7942 	EXP 	NL_Pair: autoDraw = False
+37.7942 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+37.7942 	EXP 	NL_Pair: text = '1G'
+37.7942 	EXP 	NL_Pair: autoDraw = True
+37.9611 	EXP 	New trial (rep=0, index=80): OrderedDict([('block', 3), ('pair', '6I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+38.0053 	DATA 	Keypress: f
+38.0278 	EXP 	NL_Pair: autoDraw = False
+38.0278 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+38.0278 	EXP 	NL_Pair: text = '6I'
+38.0278 	EXP 	NL_Pair: autoDraw = True
+38.1778 	EXP 	New trial (rep=0, index=81): OrderedDict([('block', 3), ('pair', '5U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+38.2241 	DATA 	Keypress: f
+38.2453 	EXP 	NL_Pair: autoDraw = False
+38.2453 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+38.2453 	EXP 	NL_Pair: text = '5U'
+38.2453 	EXP 	NL_Pair: autoDraw = True
+38.3774 	EXP 	New trial (rep=0, index=82): OrderedDict([('block', 3), ('pair', '1M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+38.4217 	DATA 	Keypress: f
+38.4449 	EXP 	NL_Pair: autoDraw = False
+38.4449 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+38.4449 	EXP 	NL_Pair: text = '1M'
+38.4449 	EXP 	NL_Pair: autoDraw = True
+38.6094 	EXP 	New trial (rep=0, index=83): OrderedDict([('block', 3), ('pair', '3M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+38.6532 	DATA 	Keypress: f
+38.6779 	EXP 	NL_Pair: autoDraw = False
+38.6779 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+38.6779 	EXP 	NL_Pair: text = '3M'
+38.6779 	EXP 	NL_Pair: autoDraw = True
+38.8589 	EXP 	New trial (rep=0, index=84): OrderedDict([('block', 3), ('pair', '3K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+38.9039 	DATA 	Keypress: f
+38.9276 	EXP 	NL_Pair: autoDraw = False
+38.9276 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+38.9276 	EXP 	NL_Pair: text = '3K'
+38.9276 	EXP 	NL_Pair: autoDraw = True
+39.0928 	EXP 	New trial (rep=0, index=85): OrderedDict([('block', 3), ('pair', '6E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+39.1371 	DATA 	Keypress: f
+39.1609 	EXP 	NL_Pair: autoDraw = False
+39.1609 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+39.1609 	EXP 	NL_Pair: text = '6E'
+39.1609 	EXP 	NL_Pair: autoDraw = True
+39.2760 	EXP 	New trial (rep=0, index=86): OrderedDict([('block', 3), ('pair', '7I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+39.3193 	DATA 	Keypress: f
+39.3438 	EXP 	NL_Pair: autoDraw = False
+39.3438 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+39.3438 	EXP 	NL_Pair: text = '7I'
+39.3438 	EXP 	NL_Pair: autoDraw = True
+39.4443 	EXP 	New trial (rep=0, index=87): OrderedDict([('block', 3), ('pair', '8E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+39.4906 	DATA 	Keypress: f
+39.5114 	EXP 	NL_Pair: autoDraw = False
+39.5114 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+39.5114 	EXP 	NL_Pair: text = '8E'
+39.5114 	EXP 	NL_Pair: autoDraw = True
+39.6107 	EXP 	New trial (rep=0, index=88): OrderedDict([('block', 3), ('pair', '6A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+39.6546 	DATA 	Keypress: f
+39.6775 	EXP 	NL_Pair: autoDraw = False
+39.6775 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+39.6775 	EXP 	NL_Pair: text = '6A'
+39.6775 	EXP 	NL_Pair: autoDraw = True
+39.7768 	EXP 	New trial (rep=0, index=89): OrderedDict([('block', 3), ('pair', '2U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+39.8209 	DATA 	Keypress: f
+39.8443 	EXP 	NL_Pair: autoDraw = False
+39.8443 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+39.8443 	EXP 	NL_Pair: text = '2U'
+39.8443 	EXP 	NL_Pair: autoDraw = True
+39.9422 	EXP 	New trial (rep=0, index=90): OrderedDict([('block', 3), ('pair', '8R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+39.9862 	DATA 	Keypress: f
+40.0109 	EXP 	NL_Pair: autoDraw = False
+40.0109 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+40.0109 	EXP 	NL_Pair: text = '8R'
+40.0109 	EXP 	NL_Pair: autoDraw = True
+40.0931 	EXP 	New trial (rep=0, index=91): OrderedDict([('block', 3), ('pair', '4A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+40.1382 	DATA 	Keypress: f
+40.1608 	EXP 	NL_Pair: autoDraw = False
+40.1608 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+40.1608 	EXP 	NL_Pair: text = '4A'
+40.1608 	EXP 	NL_Pair: autoDraw = True
+40.2428 	EXP 	New trial (rep=0, index=92): OrderedDict([('block', 3), ('pair', '5R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+40.2864 	DATA 	Keypress: f
+40.3121 	EXP 	NL_Pair: autoDraw = False
+40.3121 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+40.3121 	EXP 	NL_Pair: text = '5R'
+40.3121 	EXP 	NL_Pair: autoDraw = True
+40.4096 	EXP 	New trial (rep=0, index=93): OrderedDict([('block', 3), ('pair', '5K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+40.4530 	DATA 	Keypress: f
+40.4779 	EXP 	NL_Pair: autoDraw = False
+40.4779 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+40.4779 	EXP 	NL_Pair: text = '5K'
+40.4779 	EXP 	NL_Pair: autoDraw = True
+40.5772 	EXP 	New trial (rep=0, index=94): OrderedDict([('block', 3), ('pair', '3I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+40.6235 	DATA 	Keypress: f
+40.6440 	EXP 	NL_Pair: autoDraw = False
+40.6440 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+40.6440 	EXP 	NL_Pair: text = '3I'
+40.6440 	EXP 	NL_Pair: autoDraw = True
+40.7268 	EXP 	New trial (rep=0, index=95): OrderedDict([('block', 3), ('pair', '5M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+40.7704 	DATA 	Keypress: f
+40.7946 	EXP 	NL_Pair: autoDraw = False
+40.7946 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+40.7946 	EXP 	NL_Pair: text = '5M'
+40.7946 	EXP 	NL_Pair: autoDraw = True
+41.1104 	EXP 	New trial (rep=0, index=96): OrderedDict([('block', 3), ('pair', '3E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+41.1547 	DATA 	Keypress: f
+41.1773 	EXP 	NL_Pair: autoDraw = False
+41.1773 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+41.1773 	EXP 	NL_Pair: text = '3E'
+41.1773 	EXP 	NL_Pair: autoDraw = True
+41.2944 	DATA 	Keypress: f
+41.3102 	EXP 	New trial (rep=0, index=97): OrderedDict([('block', 3), ('pair', '4I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+41.3778 	EXP 	NL_Pair: autoDraw = False
+41.3778 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+41.3778 	EXP 	NL_Pair: text = '4I'
+41.3778 	EXP 	NL_Pair: autoDraw = True
+41.4756 	EXP 	New trial (rep=0, index=98): OrderedDict([('block', 3), ('pair', '2E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+41.5193 	DATA 	Keypress: f
+41.5443 	EXP 	NL_Pair: autoDraw = False
+41.5443 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+41.5443 	EXP 	NL_Pair: text = '2E'
+41.5443 	EXP 	NL_Pair: autoDraw = True
+41.6604 	EXP 	New trial (rep=0, index=99): OrderedDict([('block', 3), ('pair', '3G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+41.7046 	DATA 	Keypress: f
+41.7274 	EXP 	NL_Pair: autoDraw = False
+41.7274 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+41.7274 	EXP 	NL_Pair: text = '3G'
+41.7274 	EXP 	NL_Pair: autoDraw = True
+41.8426 	EXP 	New trial (rep=0, index=100): OrderedDict([('block', 3), ('pair', '4E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+41.9259 	DATA 	Keypress: f
+41.9466 	EXP 	NL_Pair: autoDraw = False
+41.9466 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+41.9466 	EXP 	NL_Pair: text = '4E'
+41.9466 	EXP 	NL_Pair: autoDraw = True
+42.0261 	EXP 	New trial (rep=0, index=101): OrderedDict([('block', 3), ('pair', '3U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+42.0706 	DATA 	Keypress: f
+42.0941 	EXP 	NL_Pair: autoDraw = False
+42.0941 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+42.0941 	EXP 	NL_Pair: text = '3U'
+42.0941 	EXP 	NL_Pair: autoDraw = True
+42.2122 	DATA 	Keypress: f
+42.2281 	EXP 	New trial (rep=0, index=102): OrderedDict([('block', 3), ('pair', '3R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+42.2941 	EXP 	NL_Pair: autoDraw = False
+42.2941 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+42.2941 	EXP 	NL_Pair: text = '3R'
+42.2941 	EXP 	NL_Pair: autoDraw = True
+42.3938 	EXP 	New trial (rep=0, index=103): OrderedDict([('block', 3), ('pair', '8I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+42.4379 	DATA 	Keypress: f
+42.4608 	EXP 	NL_Pair: autoDraw = False
+42.4608 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+42.4608 	EXP 	NL_Pair: text = '8I'
+42.4608 	EXP 	NL_Pair: autoDraw = True
+42.5612 	EXP 	New trial (rep=0, index=104): OrderedDict([('block', 3), ('pair', '2A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+42.6055 	DATA 	Keypress: f
+42.6274 	EXP 	NL_Pair: autoDraw = False
+42.6274 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+42.6274 	EXP 	NL_Pair: text = '2A'
+42.6274 	EXP 	NL_Pair: autoDraw = True
+42.7270 	EXP 	New trial (rep=0, index=105): OrderedDict([('block', 3), ('pair', '8A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+42.7716 	DATA 	Keypress: f
+42.7944 	EXP 	NL_Pair: autoDraw = False
+42.7944 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+42.7944 	EXP 	NL_Pair: text = '8A'
+42.7944 	EXP 	NL_Pair: autoDraw = True
+42.8919 	EXP 	New trial (rep=0, index=106): OrderedDict([('block', 3), ('pair', '9G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+42.9375 	DATA 	Keypress: f
+42.9608 	EXP 	NL_Pair: autoDraw = False
+42.9608 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+42.9608 	EXP 	NL_Pair: text = '9G'
+42.9608 	EXP 	NL_Pair: autoDraw = True
+43.0612 	EXP 	New trial (rep=0, index=107): OrderedDict([('block', 3), ('pair', '4K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+43.1060 	DATA 	Keypress: f
+43.1299 	EXP 	NL_Pair: autoDraw = False
+43.1299 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+43.1299 	EXP 	NL_Pair: text = '4K'
+43.1299 	EXP 	NL_Pair: autoDraw = True
+43.2276 	EXP 	New trial (rep=0, index=108): OrderedDict([('block', 3), ('pair', '1U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+43.2715 	DATA 	Keypress: f
+43.2940 	EXP 	NL_Pair: autoDraw = False
+43.2940 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+43.2940 	EXP 	NL_Pair: text = '1U'
+43.2940 	EXP 	NL_Pair: autoDraw = True
+43.3926 	EXP 	New trial (rep=0, index=109): OrderedDict([('block', 3), ('pair', '8G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+43.4372 	DATA 	Keypress: f
+43.4612 	EXP 	NL_Pair: autoDraw = False
+43.4612 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+43.4612 	EXP 	NL_Pair: text = '8G'
+43.4612 	EXP 	NL_Pair: autoDraw = True
+43.5601 	EXP 	New trial (rep=0, index=110): OrderedDict([('block', 3), ('pair', '7R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+43.6027 	DATA 	Keypress: f
+43.6235 	EXP 	NL_Pair: autoDraw = False
+43.6235 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+43.6235 	EXP 	NL_Pair: text = '7R'
+43.6235 	EXP 	NL_Pair: autoDraw = True
+43.7443 	EXP 	New trial (rep=0, index=111): OrderedDict([('block', 3), ('pair', '1K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+43.7882 	DATA 	Keypress: f
+43.8108 	EXP 	NL_Pair: autoDraw = False
+43.8108 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+43.8108 	EXP 	NL_Pair: text = '1K'
+43.8108 	EXP 	NL_Pair: autoDraw = True
+43.9105 	EXP 	New trial (rep=0, index=112): OrderedDict([('block', 3), ('pair', '5E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+43.9543 	DATA 	Keypress: f
+43.9777 	EXP 	NL_Pair: autoDraw = False
+43.9777 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+43.9777 	EXP 	NL_Pair: text = '5E'
+43.9777 	EXP 	NL_Pair: autoDraw = True
+44.0760 	EXP 	New trial (rep=0, index=113): OrderedDict([('block', 3), ('pair', '7E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+44.1192 	DATA 	Keypress: f
+44.1435 	EXP 	NL_Pair: autoDraw = False
+44.1435 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+44.1435 	EXP 	NL_Pair: text = '7E'
+44.1435 	EXP 	NL_Pair: autoDraw = True
+44.2422 	EXP 	New trial (rep=0, index=114): OrderedDict([('block', 3), ('pair', '2M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+44.2885 	DATA 	Keypress: f
+44.3109 	EXP 	NL_Pair: autoDraw = False
+44.3109 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+44.3109 	EXP 	NL_Pair: text = '2M'
+44.3109 	EXP 	NL_Pair: autoDraw = True
+44.4110 	EXP 	New trial (rep=0, index=115): OrderedDict([('block', 3), ('pair', '9A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+44.4555 	DATA 	Keypress: f
+44.4773 	EXP 	NL_Pair: autoDraw = False
+44.4773 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+44.4773 	EXP 	NL_Pair: text = '9A'
+44.4773 	EXP 	NL_Pair: autoDraw = True
+44.5773 	EXP 	New trial (rep=0, index=116): OrderedDict([('block', 3), ('pair', '4G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+44.6230 	DATA 	Keypress: f
+44.6438 	EXP 	NL_Pair: autoDraw = False
+44.6438 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+44.6438 	EXP 	NL_Pair: text = '4G'
+44.6438 	EXP 	NL_Pair: autoDraw = True
+44.7272 	EXP 	New trial (rep=0, index=117): OrderedDict([('block', 3), ('pair', '4U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+44.7706 	DATA 	Keypress: f
+44.7944 	EXP 	NL_Pair: autoDraw = False
+44.7944 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+44.7944 	EXP 	NL_Pair: text = '4U'
+44.7944 	EXP 	NL_Pair: autoDraw = True
+44.8770 	EXP 	New trial (rep=0, index=118): OrderedDict([('block', 3), ('pair', '9M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+44.9209 	DATA 	Keypress: f
+44.9444 	EXP 	NL_Pair: autoDraw = False
+44.9444 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+44.9444 	EXP 	NL_Pair: text = '9M'
+44.9444 	EXP 	NL_Pair: autoDraw = True
+45.0271 	EXP 	New trial (rep=0, index=119): OrderedDict([('block', 3), ('pair', '6U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+45.0732 	DATA 	Keypress: f
+45.0941 	EXP 	NL_Pair: autoDraw = False
+45.0941 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+45.0941 	EXP 	NL_Pair: text = '6U'
+45.0941 	EXP 	NL_Pair: autoDraw = True
+45.1937 	EXP 	New trial (rep=0, index=120): OrderedDict([('block', 3), ('pair', '9R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+45.2376 	DATA 	Keypress: f
+45.2611 	EXP 	NL_Pair: autoDraw = False
+45.2611 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+45.2611 	EXP 	NL_Pair: text = '9R'
+45.2611 	EXP 	NL_Pair: autoDraw = True
+45.3594 	EXP 	New trial (rep=0, index=121): OrderedDict([('block', 3), ('pair', '7U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+45.4052 	DATA 	Keypress: f
+45.4277 	EXP 	NL_Pair: autoDraw = False
+45.4277 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+45.4277 	EXP 	NL_Pair: text = '7U'
+45.4277 	EXP 	NL_Pair: autoDraw = True
+45.5276 	EXP 	New trial (rep=0, index=122): OrderedDict([('block', 3), ('pair', '1I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+45.5711 	DATA 	Keypress: f
+45.5939 	EXP 	NL_Pair: autoDraw = False
+45.5939 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+45.5939 	EXP 	NL_Pair: text = '1I'
+45.5939 	EXP 	NL_Pair: autoDraw = True
+45.6942 	EXP 	New trial (rep=0, index=123): OrderedDict([('block', 3), ('pair', '9K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+45.7393 	DATA 	Keypress: f
+45.7611 	EXP 	NL_Pair: autoDraw = False
+45.7611 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+45.7611 	EXP 	NL_Pair: text = '9K'
+45.7611 	EXP 	NL_Pair: autoDraw = True
+45.8421 	EXP 	New trial (rep=0, index=124): OrderedDict([('block', 3), ('pair', '4M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+45.8853 	DATA 	Keypress: f
+45.9108 	EXP 	NL_Pair: autoDraw = False
+45.9108 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+45.9108 	EXP 	NL_Pair: text = '4M'
+45.9108 	EXP 	NL_Pair: autoDraw = True
+46.0094 	EXP 	New trial (rep=0, index=125): OrderedDict([('block', 3), ('pair', '6K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+46.0534 	DATA 	Keypress: f
+46.0775 	EXP 	NL_Pair: autoDraw = False
+46.0775 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+46.0775 	EXP 	NL_Pair: text = '6K'
+46.0775 	EXP 	NL_Pair: autoDraw = True
+46.1760 	EXP 	New trial (rep=0, index=126): OrderedDict([('block', 3), ('pair', '3A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+46.2205 	DATA 	Keypress: f
+46.2441 	EXP 	NL_Pair: autoDraw = False
+46.2441 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+46.2441 	EXP 	NL_Pair: text = '3A'
+46.2441 	EXP 	NL_Pair: autoDraw = True
+46.3425 	EXP 	New trial (rep=0, index=127): OrderedDict([('block', 3), ('pair', '6G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+46.3859 	DATA 	Keypress: f
+46.4098 	EXP 	NL_Pair: autoDraw = False
+46.4098 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+46.4098 	EXP 	NL_Pair: text = '6G'
+46.4098 	EXP 	NL_Pair: autoDraw = True
+46.4941 	EXP 	New trial (rep=0, index=128): OrderedDict([('block', 3), ('pair', '7G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+46.5383 	DATA 	Keypress: f
+46.5597 	EXP 	NL_Pair: autoDraw = False
+46.5597 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+46.5597 	EXP 	NL_Pair: text = '7G'
+46.5597 	EXP 	NL_Pair: autoDraw = True
+46.6429 	EXP 	New trial (rep=0, index=129): OrderedDict([('block', 3), ('pair', '2I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+46.6872 	DATA 	Keypress: f
+46.7109 	EXP 	NL_Pair: autoDraw = False
+46.7109 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+46.7109 	EXP 	NL_Pair: text = '2I'
+46.7109 	EXP 	NL_Pair: autoDraw = True
+46.7920 	EXP 	New trial (rep=0, index=130): OrderedDict([('block', 3), ('pair', '4R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+46.8371 	DATA 	Keypress: f
+46.8611 	EXP 	NL_Pair: autoDraw = False
+46.8611 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+46.8611 	EXP 	NL_Pair: text = '4R'
+46.8611 	EXP 	NL_Pair: autoDraw = True
+46.9608 	EXP 	New trial (rep=0, index=131): OrderedDict([('block', 3), ('pair', '8U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+47.0041 	DATA 	Keypress: f
+47.0276 	EXP 	NL_Pair: autoDraw = False
+47.0276 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+47.0276 	EXP 	NL_Pair: text = '8U'
+47.0276 	EXP 	NL_Pair: autoDraw = True
+47.1081 	EXP 	New trial (rep=0, index=132): OrderedDict([('block', 3), ('pair', '1A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+47.1521 	DATA 	Keypress: f
+47.1778 	EXP 	NL_Pair: autoDraw = False
+47.1778 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+47.1778 	EXP 	NL_Pair: text = '1A'
+47.1778 	EXP 	NL_Pair: autoDraw = True
+47.2603 	EXP 	New trial (rep=0, index=133): OrderedDict([('block', 3), ('pair', '7M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+47.3044 	DATA 	Keypress: f
+47.3272 	EXP 	NL_Pair: autoDraw = False
+47.3272 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+47.3272 	EXP 	NL_Pair: text = '7M'
+47.3272 	EXP 	NL_Pair: autoDraw = True
+47.4275 	EXP 	New trial (rep=0, index=134): OrderedDict([('block', 3), ('pair', '5A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+47.4745 	DATA 	Keypress: f
+47.4943 	EXP 	NL_Pair: autoDraw = False
+47.4943 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+47.4943 	EXP 	NL_Pair: text = '5A'
+47.4943 	EXP 	NL_Pair: autoDraw = True
+47.6426 	EXP 	New trial (rep=0, index=135): OrderedDict([('block', 3), ('pair', '3G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+47.6872 	DATA 	Keypress: f
+47.7111 	EXP 	NL_Pair: autoDraw = False
+47.7111 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+47.7111 	EXP 	NL_Pair: text = '3G'
+47.7111 	EXP 	NL_Pair: autoDraw = True
+47.7923 	EXP 	New trial (rep=0, index=136): OrderedDict([('block', 3), ('pair', '1M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+47.8370 	DATA 	Keypress: f
+47.8609 	EXP 	NL_Pair: autoDraw = False
+47.8609 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+47.8609 	EXP 	NL_Pair: text = '1M'
+47.8609 	EXP 	NL_Pair: autoDraw = True
+47.9607 	EXP 	New trial (rep=0, index=137): OrderedDict([('block', 3), ('pair', '7M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+48.0063 	DATA 	Keypress: f
+48.0277 	EXP 	NL_Pair: autoDraw = False
+48.0277 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+48.0277 	EXP 	NL_Pair: text = '7M'
+48.0277 	EXP 	NL_Pair: autoDraw = True
+48.1266 	EXP 	New trial (rep=0, index=138): OrderedDict([('block', 3), ('pair', '8M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+48.1703 	DATA 	Keypress: f
+48.1937 	EXP 	NL_Pair: autoDraw = False
+48.1937 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+48.1937 	EXP 	NL_Pair: text = '8M'
+48.1937 	EXP 	NL_Pair: autoDraw = True
+48.2942 	EXP 	New trial (rep=0, index=139): OrderedDict([('block', 3), ('pair', '7I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+48.3377 	DATA 	Keypress: f
+48.3599 	EXP 	NL_Pair: autoDraw = False
+48.3599 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+48.3599 	EXP 	NL_Pair: text = '7I'
+48.3599 	EXP 	NL_Pair: autoDraw = True
+48.4758 	EXP 	New trial (rep=0, index=140): OrderedDict([('block', 3), ('pair', '9E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+48.5211 	DATA 	Keypress: f
+48.5439 	EXP 	NL_Pair: autoDraw = False
+48.5439 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+48.5439 	EXP 	NL_Pair: text = '9E'
+48.5439 	EXP 	NL_Pair: autoDraw = True
+48.6439 	EXP 	New trial (rep=0, index=141): OrderedDict([('block', 3), ('pair', '6I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+48.6871 	DATA 	Keypress: f
+48.7109 	EXP 	NL_Pair: autoDraw = False
+48.7109 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+48.7109 	EXP 	NL_Pair: text = '6I'
+48.7109 	EXP 	NL_Pair: autoDraw = True
+48.7936 	EXP 	New trial (rep=0, index=142): OrderedDict([('block', 3), ('pair', '3E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+48.8378 	DATA 	Keypress: f
+48.8604 	EXP 	NL_Pair: autoDraw = False
+48.8604 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+48.8604 	EXP 	NL_Pair: text = '3E'
+48.8604 	EXP 	NL_Pair: autoDraw = True
+48.9559 	EXP 	New trial (rep=0, index=143): OrderedDict([('block', 3), ('pair', '9U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+48.9985 	DATA 	Keypress: f
+49.0243 	EXP 	NL_Pair: autoDraw = False
+49.0243 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+49.0243 	EXP 	NL_Pair: text = '9U'
+49.0243 	EXP 	NL_Pair: autoDraw = True
+49.1258 	EXP 	New trial (rep=0, index=144): OrderedDict([('block', 3), ('pair', '4R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+49.1709 	DATA 	Keypress: f
+49.1943 	EXP 	NL_Pair: autoDraw = False
+49.1943 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+49.1943 	EXP 	NL_Pair: text = '4R'
+49.1943 	EXP 	NL_Pair: autoDraw = True
+49.2924 	EXP 	New trial (rep=0, index=145): OrderedDict([('block', 3), ('pair', '1I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+49.3369 	DATA 	Keypress: f
+49.3606 	EXP 	NL_Pair: autoDraw = False
+49.3606 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+49.3606 	EXP 	NL_Pair: text = '1I'
+49.3606 	EXP 	NL_Pair: autoDraw = True
+49.4426 	EXP 	New trial (rep=0, index=146): OrderedDict([('block', 3), ('pair', '1U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+49.4842 	DATA 	Keypress: f
+49.5073 	EXP 	NL_Pair: autoDraw = False
+49.5073 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+49.5073 	EXP 	NL_Pair: text = '1U'
+49.5073 	EXP 	NL_Pair: autoDraw = True
+49.6087 	EXP 	New trial (rep=0, index=147): OrderedDict([('block', 3), ('pair', '7K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+49.6520 	DATA 	Keypress: f
+49.6777 	EXP 	NL_Pair: autoDraw = False
+49.6777 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+49.6777 	EXP 	NL_Pair: text = '7K'
+49.6777 	EXP 	NL_Pair: autoDraw = True
+49.7609 	EXP 	New trial (rep=0, index=148): OrderedDict([('block', 3), ('pair', '7E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+49.8045 	DATA 	Keypress: f
+49.8278 	EXP 	NL_Pair: autoDraw = False
+49.8278 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+49.8278 	EXP 	NL_Pair: text = '7E'
+49.8278 	EXP 	NL_Pair: autoDraw = True
+49.9258 	EXP 	New trial (rep=0, index=149): OrderedDict([('block', 3), ('pair', '4E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+49.9698 	DATA 	Keypress: f
+49.9943 	EXP 	NL_Pair: autoDraw = False
+49.9943 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+49.9943 	EXP 	NL_Pair: text = '4E'
+49.9943 	EXP 	NL_Pair: autoDraw = True
+50.0920 	EXP 	New trial (rep=0, index=150): OrderedDict([('block', 3), ('pair', '5R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+50.1360 	DATA 	Keypress: f
+50.1605 	EXP 	NL_Pair: autoDraw = False
+50.1605 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+50.1605 	EXP 	NL_Pair: text = '5R'
+50.1605 	EXP 	NL_Pair: autoDraw = True
+50.2773 	EXP 	New trial (rep=0, index=151): OrderedDict([('block', 3), ('pair', '3U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+50.3211 	DATA 	Keypress: f
+50.3436 	EXP 	NL_Pair: autoDraw = False
+50.3436 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+50.3436 	EXP 	NL_Pair: text = '3U'
+50.3436 	EXP 	NL_Pair: autoDraw = True
+50.4425 	EXP 	New trial (rep=0, index=152): OrderedDict([('block', 3), ('pair', '2M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+50.4878 	DATA 	Keypress: f
+50.5103 	EXP 	NL_Pair: autoDraw = False
+50.5103 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+50.5103 	EXP 	NL_Pair: text = '2M'
+50.5103 	EXP 	NL_Pair: autoDraw = True
+50.6111 	DATA 	Keypress: f
+50.6268 	EXP 	New trial (rep=0, index=153): OrderedDict([('block', 3), ('pair', '1K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+50.6940 	EXP 	NL_Pair: autoDraw = False
+50.6940 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+50.6940 	EXP 	NL_Pair: text = '1K'
+50.6940 	EXP 	NL_Pair: autoDraw = True
+50.7924 	EXP 	New trial (rep=0, index=154): OrderedDict([('block', 3), ('pair', '2I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+50.8365 	DATA 	Keypress: f
+50.8609 	EXP 	NL_Pair: autoDraw = False
+50.8609 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+50.8609 	EXP 	NL_Pair: text = '2I'
+50.8609 	EXP 	NL_Pair: autoDraw = True
+50.9585 	EXP 	New trial (rep=0, index=155): OrderedDict([('block', 3), ('pair', '9A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+51.0022 	DATA 	Keypress: f
+51.0275 	EXP 	NL_Pair: autoDraw = False
+51.0275 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+51.0275 	EXP 	NL_Pair: text = '9A'
+51.0275 	EXP 	NL_Pair: autoDraw = True
+51.1260 	EXP 	New trial (rep=0, index=156): OrderedDict([('block', 3), ('pair', '3R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+51.1714 	DATA 	Keypress: f
+51.1947 	EXP 	NL_Pair: autoDraw = False
+51.1947 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+51.1947 	EXP 	NL_Pair: text = '3R'
+51.1947 	EXP 	NL_Pair: autoDraw = True
+51.2773 	EXP 	New trial (rep=0, index=157): OrderedDict([('block', 3), ('pair', '4G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+51.3219 	DATA 	Keypress: f
+51.3443 	EXP 	NL_Pair: autoDraw = False
+51.3443 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+51.3443 	EXP 	NL_Pair: text = '4G'
+51.3443 	EXP 	NL_Pair: autoDraw = True
+51.4436 	EXP 	New trial (rep=0, index=158): OrderedDict([('block', 3), ('pair', '1E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+51.4877 	DATA 	Keypress: f
+51.5105 	EXP 	NL_Pair: autoDraw = False
+51.5105 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+51.5105 	EXP 	NL_Pair: text = '1E'
+51.5105 	EXP 	NL_Pair: autoDraw = True
+51.6091 	EXP 	New trial (rep=0, index=159): OrderedDict([('block', 3), ('pair', '8G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+51.6553 	DATA 	Keypress: f
+51.6773 	EXP 	NL_Pair: autoDraw = False
+51.6773 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+51.6773 	EXP 	NL_Pair: text = '8G'
+51.6773 	EXP 	NL_Pair: autoDraw = True
+51.7766 	EXP 	New trial (rep=0, index=160): OrderedDict([('block', 3), ('pair', '3I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+51.8206 	DATA 	Keypress: f
+51.8443 	EXP 	NL_Pair: autoDraw = False
+51.8443 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+51.8443 	EXP 	NL_Pair: text = '3I'
+51.8443 	EXP 	NL_Pair: autoDraw = True
+51.9440 	EXP 	New trial (rep=0, index=161): OrderedDict([('block', 3), ('pair', '5A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+51.9894 	DATA 	Keypress: f
+52.0109 	EXP 	NL_Pair: autoDraw = False
+52.0109 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+52.0109 	EXP 	NL_Pair: text = '5A'
+52.0109 	EXP 	NL_Pair: autoDraw = True
+52.1418 	EXP 	New trial (rep=0, index=162): OrderedDict([('block', 3), ('pair', '2E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+52.1848 	DATA 	Keypress: f
+52.2102 	EXP 	NL_Pair: autoDraw = False
+52.2102 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+52.2102 	EXP 	NL_Pair: text = '2E'
+52.2102 	EXP 	NL_Pair: autoDraw = True
+52.3259 	EXP 	New trial (rep=0, index=163): OrderedDict([('block', 3), ('pair', '6G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+52.3701 	DATA 	Keypress: f
+52.3936 	EXP 	NL_Pair: autoDraw = False
+52.3936 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+52.3936 	EXP 	NL_Pair: text = '6G'
+52.3936 	EXP 	NL_Pair: autoDraw = True
+52.4940 	EXP 	New trial (rep=0, index=164): OrderedDict([('block', 3), ('pair', '9M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+52.5381 	DATA 	Keypress: f
+52.5606 	EXP 	NL_Pair: autoDraw = False
+52.5606 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+52.5606 	EXP 	NL_Pair: text = '9M'
+52.5606 	EXP 	NL_Pair: autoDraw = True
+52.6608 	EXP 	New trial (rep=0, index=165): OrderedDict([('block', 3), ('pair', '4I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+52.7057 	DATA 	Keypress: f
+52.7275 	EXP 	NL_Pair: autoDraw = False
+52.7275 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+52.7275 	EXP 	NL_Pair: text = '4I'
+52.7275 	EXP 	NL_Pair: autoDraw = True
+52.8273 	EXP 	New trial (rep=0, index=166): OrderedDict([('block', 3), ('pair', '8I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+52.8714 	DATA 	Keypress: f
+52.8944 	EXP 	NL_Pair: autoDraw = False
+52.8944 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+52.8944 	EXP 	NL_Pair: text = '8I'
+52.8944 	EXP 	NL_Pair: autoDraw = True
+52.9942 	EXP 	New trial (rep=0, index=167): OrderedDict([('block', 3), ('pair', '9I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+53.0386 	DATA 	Keypress: f
+53.0606 	EXP 	NL_Pair: autoDraw = False
+53.0606 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+53.0606 	EXP 	NL_Pair: text = '9I'
+53.0606 	EXP 	NL_Pair: autoDraw = True
+53.1591 	EXP 	New trial (rep=0, index=168): OrderedDict([('block', 3), ('pair', '8A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+53.2034 	DATA 	Keypress: f
+53.2273 	EXP 	NL_Pair: autoDraw = False
+53.2273 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+53.2273 	EXP 	NL_Pair: text = '8A'
+53.2273 	EXP 	NL_Pair: autoDraw = True
+53.3272 	EXP 	New trial (rep=0, index=169): OrderedDict([('block', 3), ('pair', '2R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+53.3718 	DATA 	Keypress: f
+53.3944 	EXP 	NL_Pair: autoDraw = False
+53.3944 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+53.3944 	EXP 	NL_Pair: text = '2R'
+53.3944 	EXP 	NL_Pair: autoDraw = True
+53.5106 	EXP 	New trial (rep=0, index=170): OrderedDict([('block', 3), ('pair', '4K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+53.5562 	DATA 	Keypress: f
+53.5772 	EXP 	NL_Pair: autoDraw = False
+53.5772 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+53.5772 	EXP 	NL_Pair: text = '4K'
+53.5772 	EXP 	NL_Pair: autoDraw = True
+53.6943 	EXP 	New trial (rep=0, index=171): OrderedDict([('block', 3), ('pair', '5I'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+53.7382 	DATA 	Keypress: f
+53.7606 	EXP 	NL_Pair: autoDraw = False
+53.7606 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+53.7606 	EXP 	NL_Pair: text = '5I'
+53.7606 	EXP 	NL_Pair: autoDraw = True
+53.8750 	EXP 	New trial (rep=0, index=172): OrderedDict([('block', 3), ('pair', '6R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+53.9181 	DATA 	Keypress: f
+53.9436 	EXP 	NL_Pair: autoDraw = False
+53.9436 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+53.9436 	EXP 	NL_Pair: text = '6R'
+53.9436 	EXP 	NL_Pair: autoDraw = True
+54.0574 	EXP 	New trial (rep=0, index=173): OrderedDict([('block', 3), ('pair', '1R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+54.1006 	DATA 	Keypress: f
+54.1273 	EXP 	NL_Pair: autoDraw = False
+54.1273 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+54.1273 	EXP 	NL_Pair: text = '1R'
+54.1273 	EXP 	NL_Pair: autoDraw = True
+54.2592 	EXP 	New trial (rep=0, index=174): OrderedDict([('block', 3), ('pair', '8E'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+54.3046 	DATA 	Keypress: f
+54.3276 	EXP 	NL_Pair: autoDraw = False
+54.3276 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+54.3276 	EXP 	NL_Pair: text = '8E'
+54.3276 	EXP 	NL_Pair: autoDraw = True
+54.4610 	EXP 	New trial (rep=0, index=175): OrderedDict([('block', 3), ('pair', '9G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+54.5070 	DATA 	Keypress: f
+54.5273 	EXP 	NL_Pair: autoDraw = False
+54.5273 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+54.5273 	EXP 	NL_Pair: text = '9G'
+54.5273 	EXP 	NL_Pair: autoDraw = True
+54.6607 	DATA 	Keypress: f
+54.6777 	EXP 	New trial (rep=0, index=176): OrderedDict([('block', 3), ('pair', '1G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+54.7434 	EXP 	NL_Pair: autoDraw = False
+54.7434 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+54.7434 	EXP 	NL_Pair: text = '1G'
+54.7434 	EXP 	NL_Pair: autoDraw = True
+54.8921 	EXP 	New trial (rep=0, index=177): OrderedDict([('block', 3), ('pair', '8R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+54.9372 	DATA 	Keypress: f
+54.9611 	EXP 	NL_Pair: autoDraw = False
+54.9611 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+54.9611 	EXP 	NL_Pair: text = '8R'
+54.9611 	EXP 	NL_Pair: autoDraw = True
+55.0591 	EXP 	New trial (rep=0, index=178): OrderedDict([('block', 3), ('pair', '7G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+55.1014 	DATA 	Keypress: f
+55.1273 	EXP 	NL_Pair: autoDraw = False
+55.1273 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+55.1273 	EXP 	NL_Pair: text = '7G'
+55.1273 	EXP 	NL_Pair: autoDraw = True
+55.2270 	EXP 	New trial (rep=0, index=179): OrderedDict([('block', 3), ('pair', '3A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+55.2713 	DATA 	Keypress: f
+55.2941 	EXP 	NL_Pair: autoDraw = False
+55.2941 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+55.2941 	EXP 	NL_Pair: text = '3A'
+55.2941 	EXP 	NL_Pair: autoDraw = True
+55.3930 	EXP 	New trial (rep=0, index=180): OrderedDict([('block', 3), ('pair', '5M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+55.4317 	DATA 	Keypress: f
+55.4571 	EXP 	NL_Pair: autoDraw = False
+55.4571 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+55.4571 	EXP 	NL_Pair: text = '5M'
+55.4571 	EXP 	NL_Pair: autoDraw = True
+55.5610 	EXP 	New trial (rep=0, index=181): OrderedDict([('block', 3), ('pair', '9K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+55.5993 	DATA 	Keypress: f
+55.6236 	EXP 	NL_Pair: autoDraw = False
+55.6236 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+55.6236 	EXP 	NL_Pair: text = '9K'
+55.6236 	EXP 	NL_Pair: autoDraw = True
+55.7249 	EXP 	New trial (rep=0, index=182): OrderedDict([('block', 3), ('pair', '2U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+55.7651 	DATA 	Keypress: f
+55.7902 	EXP 	NL_Pair: autoDraw = False
+55.7902 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+55.7902 	EXP 	NL_Pair: text = '2U'
+55.7902 	EXP 	NL_Pair: autoDraw = True
+55.8916 	EXP 	New trial (rep=0, index=183): OrderedDict([('block', 3), ('pair', '5G'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+55.9340 	DATA 	Keypress: f
+55.9568 	EXP 	NL_Pair: autoDraw = False
+55.9568 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+55.9568 	EXP 	NL_Pair: text = '5G'
+55.9568 	EXP 	NL_Pair: autoDraw = True
+56.0778 	EXP 	New trial (rep=0, index=184): OrderedDict([('block', 3), ('pair', '9R'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'f'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+56.1222 	DATA 	Keypress: f
+56.1439 	EXP 	NL_Pair: autoDraw = False
+56.1439 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+56.1439 	EXP 	NL_Pair: text = '9R'
+56.1439 	EXP 	NL_Pair: autoDraw = True
+56.2925 	EXP 	New trial (rep=0, index=185): OrderedDict([('block', 3), ('pair', '4U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+56.3363 	DATA 	Keypress: f
+56.3606 	EXP 	NL_Pair: autoDraw = False
+56.3606 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+56.3606 	EXP 	NL_Pair: text = '4U'
+56.3606 	EXP 	NL_Pair: autoDraw = True
+56.4609 	EXP 	New trial (rep=0, index=186): OrderedDict([('block', 3), ('pair', '4M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+56.5049 	DATA 	Keypress: f
+56.5273 	EXP 	NL_Pair: autoDraw = False
+56.5273 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+56.5273 	EXP 	NL_Pair: text = '4M'
+56.5273 	EXP 	NL_Pair: autoDraw = True
+56.6437 	EXP 	New trial (rep=0, index=187): OrderedDict([('block', 3), ('pair', '8U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+56.6877 	DATA 	Keypress: f
+56.7104 	EXP 	NL_Pair: autoDraw = False
+56.7104 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+56.7104 	EXP 	NL_Pair: text = '8U'
+56.7104 	EXP 	NL_Pair: autoDraw = True
+56.8102 	EXP 	New trial (rep=0, index=188): OrderedDict([('block', 3), ('pair', '6K'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopLeft'), ('position', [-0.3, 0.3])])
+56.8549 	DATA 	Keypress: f
+56.8775 	EXP 	NL_Pair: autoDraw = False
+56.8775 	EXP 	NL_Pair: pos = array([-0.3,  0.3])
+56.8775 	EXP 	NL_Pair: text = '6K'
+56.8775 	EXP 	NL_Pair: autoDraw = True
+56.9776 	EXP 	New trial (rep=0, index=189): OrderedDict([('block', 3), ('pair', '2A'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'j'), ('state', 'TopRight'), ('position', [0.3, 0.3])])
+57.0233 	DATA 	Keypress: f
+57.0436 	EXP 	NL_Pair: autoDraw = False
+57.0436 	EXP 	NL_Pair: pos = array([0.3, 0.3])
+57.0436 	EXP 	NL_Pair: text = '2A'
+57.0436 	EXP 	NL_Pair: autoDraw = True
+57.1429 	EXP 	New trial (rep=0, index=190): OrderedDict([('block', 3), ('pair', '6M'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'd'), ('state', 'BottomRight'), ('position', [-0.3, -0.3])])
+57.1874 	DATA 	Keypress: f
+57.2107 	EXP 	NL_Pair: autoDraw = False
+57.2107 	EXP 	NL_Pair: pos = array([-0.3, -0.3])
+57.2107 	EXP 	NL_Pair: text = '6M'
+57.2107 	EXP 	NL_Pair: autoDraw = True
+57.3098 	EXP 	New trial (rep=0, index=191): OrderedDict([('block', 3), ('pair', '7U'), ('allowed', "'f', 'j', 'd', 'k'"), ('correct', 'k'), ('state', 'BottomLeft'), ('position', [0.3, -0.3])])
+57.3546 	DATA 	Keypress: f
+57.3774 	EXP 	NL_Pair: autoDraw = False
+57.3774 	EXP 	NL_Pair: pos = array([ 0.3, -0.3])
+57.3774 	EXP 	NL_Pair: text = '7U'
+57.3774 	EXP 	NL_Pair: autoDraw = True
+57.5349 	DATA 	Keypress: f
+57.5582 	EXP 	NL_Pair: autoDraw = False
+57.5582 	EXP 	text_2: autoDraw = True
+57.6458 	DATA 	Keypress: f
+60.0777 	DATA 	Keypress: space
+60.0919 	EXP 	text_2: autoDraw = False
+60.3979 	EXP 	window1: mouseVisible = True
